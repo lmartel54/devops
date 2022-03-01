@@ -1,5 +1,4 @@
-# devops
-Comment définir la "culture" DEVOPS ?
+#Comment définir la "culture" DEVOPS ?
 
 En utilisant le cercle d'or, méthode popularisée par Simon Sinek (visant à améliorer la stratégie de communication des entreprises)
 
