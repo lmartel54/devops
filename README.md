@@ -63,7 +63,7 @@
 <p>
 	DevOps est basé sur un <b>CBOK</b> (Collective Body of Knowledge) : référentiel de connaissances partagées et collectives
 	<ul>
-		<li><b>Conférence(s)</b></li>
+		<li><b>Conférences</b></li>
 			<table>
 				  <tr>
 					  <td><a href="https://devopsdays.org">DevOps Days</a></td>
@@ -74,12 +74,12 @@
 					  <td>fondé par Gene Kim en 2014</td>
 				  </tr>  
 			</table>
-		<li><b>Rapport(s)</b></li>
+		<li><b>Rapports annuels</b></li>
 			<table>
 				  <tr>
 					  <td>Accelerate State of DevOps</td>
 					  <td>
-						 Rapport annuel produit par l’équipe <b>DORA</b> (DevOps Research & Assessment) de <b>Google Cloud</b><br>
+						 Publié par l’équipe <b>DORA</b> (DevOps Research & Assessment) de <b>Google Cloud</b><br>
 						 <ul>
 						 <li>Indicateurs de Vélocité</li>
 						 <ul>
@@ -98,20 +98,31 @@
 				  </tr>
 				  <tr>
 					  <td>The State of DevOps Report</td>
-					  <td>Rapport annuel produit par <b>Puppet</b></td>
+					  <td>Publié par <b>Puppet</b></td>
 				  </tr>
 				  <tr>
 					  <td>Upskilling IT</td>
 					  <td>
-						 Rapport annuel produit par le <b>DevOps Institute</b></br>
+						 Publié par le <b>DevOps Institute</b></br>
 						 <ul>
 						 <li>Indicateurs de Compétences</li>
 						 <ul>
 					  </td>
 				  </tr>
 			</table>
-		<li><b>Ouvrage(s) de référence</b></li>
-		
+		<li><b>Ouvrages de référence</b></li>
+			<table>
+				  <tr>
+					  <td>2013</td>
+					  <td>The Phoenix Project</td>
+					  <td>Gene Kim, Kevin Behr, George Spafford</td>
+				  </tr>
+				  <tr>
+					  <td>2016</td>
+					  <td>The Devops Handbook</td>
+					  <td>Gene Kim, Jez Humble, Patrick Debois, John Willis</b>
+				  </tr>  
+			</table>
 	</ul>	
 </p>	
 			
