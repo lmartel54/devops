@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3>Ma définition du DevOps ?</h3>
+<h3>Ma définition ?</h3>
 <p>J'utiliserais le <b>cercle d'or</b> (méthode popularisée par <b>Simon Sinek</b>, visant à améliorer la stratégie de communication des entreprises)</p>
 <div>
 	<table>
@@ -22,7 +22,7 @@
 	</table>
 </div>
 
-<h3>Historique</h3>
+<h3>L'historique</h3>
 <div>
 	<table>
 		  <tr>
@@ -57,76 +57,101 @@
 	</table>
 </div>
 		   
-<h3>Fondements</h3>
-
+<h3>Les Fondements</h3>
 <p><a href="http://devops.com/2016/03/17/what-devops-is-not/">5 Things DevOps is NOT !</a></p>
 <p>
 	DevOps est basé sur un <b>CBOK</b> (Collective Body of Knowledge) : référentiel de connaissances partagées et collectives
 	<ul>
-		<li><b>Conférences</b></li>
-			<table>
-				  <tr>
-					  <td><a href="https://devopsdays.org">DevOps Days</a></td>
-					  <td>fondé par Patrick Debois en 2009</td>
-				  </tr>
-				  <tr>
-					  <td><a href="https://events.itrevolution.com">Devops Enterprise Summit</a></td>
-					  <td>fondé par Gene Kim en 2014</td>
-				  </tr>  
-			</table>
-		<li><b>Rapports annuels</b></li>
-			<table>
-				  <tr>
-					  <td>Accelerate State of DevOps</td>
-					  <td>
-						 Publié par l’équipe <b>DORA</b> (DevOps Research & Assessment) de <b>Google Cloud</b><br>
-						 <ul>
-						 <li>Indicateurs de Vélocité</li>
-						 <ul>
-							 <li>Deployment Frequency: Fréquence à laquelle une organisation réussit à mettre en production</li>
-							 <li>Lead Time for Changes: Temps qu'il faut à un commit pour passer en production</li>
-						 </ul>
-						 </ul>		 
-						 <ul>
-						 <li>Indicateurs de Stabilité</li>
-						 <ul>
-							 <li>Change Failure Rate: Pourcentage de déploiements provoquant un échec en production</li>
-							 <li>Time to Restore Service (MTTR): Temps nécessaire à une organisation pour se remettre d'une panne de production</li>
-						 </ul>
-						 </ul>	
-					  </td>
-				  </tr>
-				  <tr>
-					  <td>The State of DevOps Report</td>
-					  <td>Publié par <b>Puppet</b></td>
-				  </tr>
-				  <tr>
-					  <td>Upskilling IT</td>
-					  <td>
-						 Publié par le <b>DevOps Institute</b></br>
-						 <ul>
-						 <li>Indicateurs de Compétences</li>
-						 <ul>
-					  </td>
-				  </tr>
-			</table>
-		<li><b>Ouvrages de référence</b></li>
-			<table>
-				  <tr>
-					  <td>2013</td>
-					  <td>The Phoenix Project</td>
-					  <td>Gene Kim, Kevin Behr, George Spafford</td>
-				  </tr>
-				  <tr>
-					  <td>2016</td>
-					  <td>The Devops Handbook</td>
-					  <td>Gene Kim, Jez Humble, Patrick Debois, John Willis</b>
-				  </tr>  
-			</table>
+		<li><b>Des conférences</b></li>
+		<br>
+		<table>
+			  <tr>
+				  <td><a href="https://devopsdays.org">DevOps Days</a></td>
+				  <td>fondé par Patrick Debois en 2009</td>
+			  </tr>
+			  <tr>
+				  <td><a href="https://events.itrevolution.com">Devops Enterprise Summit</a></td>
+				  <td>fondé par Gene Kim en 2014</td>
+			  </tr>  
+		</table>
+		<li><b>Des rapports annuels</b></li>
+		<br>
+		<table>
+			  <tr>
+				  <td>Accelerate State of DevOps</td>
+				  <td>
+					 Publié par l’équipe <b>DORA</b> (DevOps Research & Assessment) de <b>Google Cloud</b><br>
+					 <ul>
+					 <li>Indicateurs de Vélocité</li>
+					 <ul>
+						 <li>Deployment Frequency: Fréquence à laquelle une organisation réussit à mettre en production</li>
+						 <li>Lead Time for Changes: Temps qu'il faut à un commit pour passer en production</li>
+					 </ul>
+					 </ul>		 
+					 <ul>
+					 <li>Indicateurs de Stabilité</li>
+					 <ul>
+						 <li>Change Failure Rate: Pourcentage de déploiements provoquant un échec en production</li>
+						 <li>Time to Restore Service (MTTR): Temps nécessaire à une organisation pour se remettre d'une panne de production</li>
+					 </ul>
+					 </ul>	
+				  </td>
+			  </tr>
+			  <tr>
+				  <td>The State of DevOps Report</td>
+				  <td>Publié par <b>Puppet</b></td>
+			  </tr>
+			  <tr>
+				  <td>Upskilling IT</td>
+				  <td>
+					 Publié par le <b>DevOps Institute</b></br>
+					 <ul>
+					 <li>Indicateurs de Compétences</li>
+					 <ul>
+				  </td>
+			  </tr>
+		</table>
+		<li><b>Des ouvrages de référence</b></li>
+		<br>
+		<table>
+			  <tr>
+				  <td>2013</td>
+				  <td>The Phoenix Project</td>
+				  <td>Gene Kim, Kevin Behr, George Spafford</td>
+			  </tr>
+			  <tr>
+				  <td>2016</td>
+				  <td>The Devops Handbook</td>
+				  <td>Gene Kim, Jez Humble, Patrick Debois, John Willis</b>
+			  </tr>  
+		</table>
 	</ul>	
 </p>	
-			
-		+ Des ouvrage(s) de référence
+
+<h3>Les principes fondamentaux</h3>
+<ul>
+	<li><b>CALMS</b></li>
+	<br>
+	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
+	<ul>
+		<li><b>C</b>ulture: Partage de la vision et des responsabilités entre les différents acteurs</li>
+		<li><b>A</b>utomatisation: d'éliminer les tâches manuelles répétitives, exploite des processus reproductibles et crée des systèmes fiables</li>
+		<li><b>L</b>ean:</li>
+		<li><b>M</b>esure:</li>
+		<li><b>S</b>haring: Partage d'informations</li>
+	</ul>
+	<br>
+	<li><b>The Three ways</b></li>
+	<br>
+	<p>Rédigé par <b>Gene Kim</b> dans le livre "The Phoenix Project", décrivant une façon de fournir de la valeur à un rythme plus rapide</p>
+	<ul>
+		<li><b>Flux</b>: Comprendre et améliorer le flux de travail</li>
+		<li><b>Feedback</b>: Créer des boucles de feedback permettant une amélioration continue</li>
+		<li><b>Expérimentation et apprentissage continus</b></li>
+	</ul>	
+<ul>
+
+	+ Des ouvrage(s) de référence
 		
 			+ 2013 : The Phoenix Project (Gene Kim, Kevin Behr, George Spafford)
 			
