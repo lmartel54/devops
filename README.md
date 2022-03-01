@@ -1,26 +1,33 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-#Comment définir la "culture" DEVOPS ?
+<h3>Ma définition du DevOps ?</h3>
+<p>J'utiliserais le <b>cercle d'or</b> (méthode popularisée par <b>Simon Sinek</b>, visant à améliorer la stratégie de communication des entreprises)</p>
+<div>
+	<table>
+		  <tr>
+			  <td><b>WHY</b></td>
+			  <td>Définir un modèle organisationnel visant à aligner les objectifs Business avec sur ceux de l'IT</td>
+		  </tr>
+		  <tr>
+			  <td><b>HOW</b></td>
+			  <td>En augmentant la chaîne de valeur : Personnes / Processus / Automatisation</td>
+		  </tr>  
+		  <tr>
+			  <td><b>WHAT</b></td>
+			  <td>En valorisant les méthodologies, framework et outils prônant la collaboration et l'amélioration continue</td>
+		  </tr>  
+	</table>
+</div>
 
-En utilisant le cercle d'or, méthode popularisée par Simon Sinek (visant à améliorer la stratégie de communication des entreprises)
-
-	+ WHY : définir un modèle organisationnel visant à aligner les objectifs Business avec sur ceux de l'IT
-	+ HOW : en augmentant la chaîne de valeur : Personnes / Processus / Automatisation
-	+ WHAT : en valorisant les méthodologies, framework et outils prônant la collaboration et l'amélioration continue
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-===================================> page 58 the three ways
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
-
-Historique:
-
+<h3>Historique</h3>
 <div>
 	<table>
 		  <tr>
 		    <td>2003</td>
-			  <td><b>SRE (Site Reliability Engineering)</b> : poste d'ingénieur créé par Google pour travailler sur la robustesse de l'infrastructure et la haute disponibilité des services (resilience)<br>=> basée sur une collaboration plus étroite entre ingénieurs de production et équipe de développement</td>
+			  <td><b>SRE (Site Reliability Engineering)</b> : Poste d'ingénieur créé par Google pour travailler sur la robustesse de l'infrastructure et la haute disponibilité des services. Fondé sur l'idée d'une collaboration plus étroite entre ingénieurs de production et équipe de développement</td>
 		  </tr>
 		  <tr>
 		    <td>2007</td>
@@ -38,55 +45,76 @@ Historique:
 		    </td>
 		  </tr>
 		  <tr>
-		    <td>2/08</td>
-	 	    <td><b>Andrew Shafer</b> lance l'idée d'une "Infrastructure Agile" (soutenu par <b>Patrick Debois</b>) ce qui
-			donne naissance au groupe de discution Google : <a href="https://groups.google.com/g/agile-system-administration">Agile System Administration</a>    		    
+		    <td>06/2009</td>
+	 	    <td><b>John Allspaw et Paul Hammond</b> relance l'idée lors d'une conférence au Velocity O'Reilly : "10+ Deploys per Day : Dev and Ops Cooperation at Flickr"	    
 		    </td>
-		  </tr>		
+		  </tr>
+		  <tr>
+		    <td>10/2009</td>
+		    <td><b>Patrick Debois</b> créé les <a href="https://devopsdays.org">DevOps Days</a> et donne naissance au hashtag #DevOps sur Twitter, ce qui légitime le terme
+		    </td>
+		  </tr>			
 	</table>
 </div>
-
-	2003 : SRE (Site Reliability Engineering) : poste d'ingénieur créé par Google pour travailler sur la robustesse de l'infrastructure (resilience) et la haute disponibilité des services
-			=> basée sur une collaboration plus étroite entre ingénieurs de production et équipe de développement
-
-	2007 : Patrick Debois initie le terme [DEV-OPS]              XXXXXX en travaillant sur projet de "testing" (mur ????) XXXXX
-		   Andrew Shafer et Lee Thompson initie le terme [Mur de la confusion]
-
-	2008 : Andrew Shafer lance l'idée d'une "infrastructure Agile" (soutenu par Patrick Debois) 
-		   => donne naissance à un groupe de discution Google 
-
-	06/2009 : John Allspaw et Paul Hammond (Flickr) relance l'idée lors du Velocity O'Reilly durant une conférence : "10+ Deploys per Day : Dev and Ops Cooperation at Flickr"
 		   
-	10/2009 : Patrick Debois initie les [DevOps Days](https://devopsdays.org), suite à un Twitte de Paul Nasser
-		   => donne naissance au hashtag #DevOps sur Twitter
-		   
-Fondements:
+<h3>Fondements</h3>
 
-	Ce qu'il n'est pas :  [5 Things DevOps is NOT](http://devops.com/2016/03/17/what-devops-is-not/)
-
-	DevOps est basé sur un CBOK (Collective Body of Knowledge) : référentiel de connaissances partagées et collectives :
-	
-		+ Des conférence(s)
+<p><a href="http://devops.com/2016/03/17/what-devops-is-not/">5 Things DevOps is NOT !</a></p>
+<p>
+	DevOps est basé sur un <b>CBOK</b> (Collective Body of Knowledge) : référentiel de connaissances partagées et collectives
+	<ul>
+		<li><b>Conférence(s)</b></li>
+			<table>
+				  <tr>
+					  <td><a href="https://devopsdays.org">DevOps Days</a></td>
+					  <td>fondé par Patrick Debois en 2009</td>
+				  </tr>
+				  <tr>
+					  <td><a href="https://events.itrevolution.com">Devops Enterprise Summit</a></td>
+					  <td>fondé par Gene Kim en 2014</td>
+				  </tr>  
+			</table>
+		<li><b>Rapport(s)</b></li>
+			<table>
+				  <tr>
+					  <td>Accelerate State of DevOps</td>
+					  <td>
+						 Rapport annuel produit par l’équipe <b>DORA</b> (DevOps Research & Assessment) de <b>Google Cloud</b><br>
+						 <ul>
+						 <li>Indicateurs de Vélocité</li>
+						 <ul>
+							 <li>Deployment Frequency: Fréquence à laquelle une organisation réussit à mettre en production</li>
+							 <li>Lead Time for Changes: Temps qu'il faut à un commit pour passer en production</li>
+						 </ul>
+						 </ul>		 
+						 <ul>
+						 <li>Indicateurs de Stabilité</li>
+						 <ul>
+							 <li>Change Failure Rate: Pourcentage de déploiements provoquant un échec en production</li>
+							 <li>Time to Restore Service (MTTR): Temps nécessaire à une organisation pour se remettre d'une panne de production</li>
+						 </ul>
+						 </ul>	
+					  </td>
+				  </tr>
+				  <tr>
+					  <td>The State of DevOps Report</td>
+					  <td>Rapport annuel produit par <b>Puppet</b></td>
+				  </tr>
+				  <tr>
+					  <td>Upskilling IT</td>
+					  <td>
+						 Rapport annuel produit par le <b>DevOps Institute</b></br>
+						 <ul>
+						 <li>Indicateurs de Compétences</li>
+						 <ul>
+					  </td>
+				  </tr>
+			</table>
+		<li><b>Ouvrage(s) de référence</b></li>
 		
-			+ [DevOps Days](https://devopsdays.org) initié par Patrick Debois en 2009
-			+ [Devops Enterprise Summit](https://events.itrevolution.com) fondé par Gene Kim en 2014
-			+ ...
+	</ul>	
+</p>	
 			
-		+ Des rapport(s)
-		
-			+ Accelerate State of DevOps : rapport annuel produit par l’équipe DORA (DevOps Research & Assessment) de Google Cloud
-			    + évaluer la vélocité
-					+ Deployment Frequency: fréquence à laquelle une organisation réussit à mettre en production
-					+ Lead Time for Changes: Le temps qu'il faut à un commit pour passer en production
-				+ évaluer la stabilité
-					+ Change Failure Rate : Le pourcentage de déploiements provoquant un échec en production
-				    + Time to Restore Service (MTTR) : Combien de temps il faut à une organisation pour se remettre d'une panne de production
-					
-			+ The State of DevOps Report : rapport annuel produit par Puppet
-					
-			+ Upskilling IT : rapport annuel produit par le DevOps Institute 
-				+ évaluer les compétences 			
-		
 		+ Des ouvrage(s) de référence
 		
 			+ 2013 : The Phoenix Project (Gene Kim, Kevin Behr, George Spafford)
