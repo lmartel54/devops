@@ -19,15 +19,30 @@ Historique:
 <div>
 	<table>
 		  <tr>
-		    <td>Alfreds Futterkiste</td>
-		    <td>Maria Anders</td>
-		    <td>Germany</td>
+		    <td>2003</td>
+			  <td><b>SRE (Site Reliability Engineering)</b> : poste d'ingénieur créé par Google pour travailler sur la robustesse de l'infrastructure et la haute disponibilité des services (resilience)<br>=> basée sur une collaboration plus étroite entre ingénieurs de production et équipe de développement</td>
 		  </tr>
 		  <tr>
-		    <td>Centro comercial Moctezuma</td>
-		    <td>Francisco Chang</td>
-		    <td>Mexico</td>
+		    <td>2007</td>
+		    <td>
+			    <ul>
+				    <li><b>Patrick Debois</b> initie le terme : DEV-OPS</li>
+				    <li><b>Andrew Shafer et Lee Thompson</b> initie le terme : Mur de la confusion</li>
+			    </ul>
+		    </td>
 		  </tr>
+		  <tr>
+		    <td>2008</td>
+	 	    <td><b>Andrew Shafer</b> lance l'idée d'une "Infrastructure Agile" (soutenu par <b>Patrick Debois</b>) ce qui
+			donne naissance au groupe de discution Google : <a href="https://groups.google.com/g/agile-system-administration">Agile System Administration</a>    		    
+		    </td>
+		  </tr>
+		  <tr>
+		    <td>2/08</td>
+	 	    <td><b>Andrew Shafer</b> lance l'idée d'une "Infrastructure Agile" (soutenu par <b>Patrick Debois</b>) ce qui
+			donne naissance au groupe de discution Google : <a href="https://groups.google.com/g/agile-system-administration">Agile System Administration</a>    		    
+		    </td>
+		  </tr>		
 	</table>
 </div>
 
@@ -38,7 +53,7 @@ Historique:
 		   Andrew Shafer et Lee Thompson initie le terme [Mur de la confusion]
 
 	2008 : Andrew Shafer lance l'idée d'une "infrastructure Agile" (soutenu par Patrick Debois) 
-		   => donne naissance à un groupe de discution Google [Agile System Administration](https://groups.google.com/g/agile-system-administration)
+		   => donne naissance à un groupe de discution Google 
 
 	06/2009 : John Allspaw et Paul Hammond (Flickr) relance l'idée lors du Velocity O'Reilly durant une conférence : "10+ Deploys per Day : Dev and Ops Cooperation at Flickr"
 		   
