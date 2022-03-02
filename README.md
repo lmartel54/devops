@@ -151,16 +151,16 @@
 		<div>
 			<table>
 				  <tr>
-					  <td><b>Intégration continue</b></td>
-					  <td>???</td>
+					  <td><b>Continuous integration</b> (CI)</td>
+					  <td>Méthode consistant à intègrer régulièrement les modifications à un référentiel centralisé, à partir duquel sont déclenchées automatiquement les étapes [build] et [test] visant à contrôler : la qualité, la conformité, la non régression...</td>
 				  </tr>
 				  <tr>
-					  <td><b>Livraison continue</b></td>
-					  <td>???</td>
+					  <td><b>Continuous Delivery</b> (CD)</td>
+					  <td>Acceptation -> <b>Trigger</b> (action manuelle) -> Production</td>
 				  </tr>
 				  <tr>
-					  <td><b>Déploiement continu</b></td>
-					  <td>???</td>
+					  <td><b>Cotinuous Deployment</b> (CD)</td>
+					  <td>Acceptation -> Production</td>
 				  </tr>
 				  <tr>
 					  <td><b>Lean</b></td>
@@ -181,9 +181,10 @@
 					  <td>
 						Méthode inventée en 1950 par Taiichi Ohno chez Toyata visant à améliorer le flux de travail:
 						<ul>
-							<li>flux tendu: production tirée par la demande, non poussée à partir des prévisions</li>
-							<li>réduction de l'espace, des stocks et du WIP (Work in Progress)</li>
-							<li>dashboard : suivre l'état d'avancement des tâches à accomplir [REQUESTED, IN_PROGRESS, DONE]</li>
+							<li><b>flux</b> tendu: <b>tiré</b> par la demande, et non poussée à partir des prévisions</li>
+							<li><b>réduction</b> de l'espace, des stocks et du <b>WIP</b> (Work in Progress)</li>
+							<li><b>visualisation du travail</b> : dashboard permettant de suivre l'état d'avancement des tâches à accomplir [REQUESTED, IN_PROGRESS, DONE]</li>
+							<li><b>mesure la vélocité</b> de l'équipe (quantité de travail par itération)</li>
 						</ul>	
 					  </td>					  
 				  </tr>  
