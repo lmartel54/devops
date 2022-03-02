@@ -130,6 +130,79 @@
 <ul>
 	<li><b>AGILE</b></li>
 	<br>
+	<p>Méthode basée sur le <b>Manifeste Agile</b> rédigé en 2001</i></p>
+	<ul>
+		<li><b>4 valeurs</b></li>
+		<table>
+			  <tr>
+				  <td>1.</td>
+				  <td>Les individus et leurs interactions <b>plutôt</b> que les processus et les outils</td>
+			  </tr>
+			  <tr>
+				  <td>2.</td>
+				  <td>Un logiciel fonctionnel <b>plutôt</b> qu’une documentation exhaustive</td>
+			  </tr>
+			  <tr>
+				  <td>3.</td>
+				  <td>Une collaboration avec les clients <b>plutôt</b> qu'une négociation contractuelle</td>
+			  </tr>
+			  <tr>
+				  <td>4.</td>
+				  <td>Une adaptation au changement <b>plutôt</b> qu'à l'exécution d’un plan</td>
+			  </tr>
+		</table>
+		<li><b>12 principes</b></li>
+		<table>
+			  <tr>
+				  <td>1.</td>
+				  <td>Prioriser la satisfaction du client</td>
+			  </tr>
+			  <tr>
+				  <td>2.</td>
+				  <td>Accepter les changements</td>
+			  </tr>
+			  <tr>
+				  <td>3.</td>
+				  <td>Livrer en permanence des versions opérationnelles de l’application</td>
+			  </tr>
+			  <tr>
+				  <td>4.</td>
+				  <td>Assurer le plus souvent possible une coopération entre l’équipe et les gens du métier</td>
+			  </tr>
+			  <tr>
+				  <td>5.</td>
+				  <td>Construire les projets autour de personnes motivées</td>
+			  </tr>
+			  <tr>
+				  <td>6.</td>
+				  <td>Favoriser le dialogue direct</td>
+			  </tr>	
+			  <tr>
+				  <td>7.</td>
+				  <td>Mesurer l’avancement du projet en fonction de l’opérationnalité du produit</td>
+			  </tr>	
+			  <tr>
+				  <td>8.</td>
+				  <td>Adopter un rythme constant et soutenable par tous les intervenants du projet</td>
+			  </tr>	
+			  <tr>
+				  <td>9.</td>
+				  <td>Contrôler continuellement l’excellence de la conception et la bonne qualité technique</td>
+			  </tr>	
+			  <tr>
+				  <td>10.</td>
+				  <td>Privilégier la simplicité en évitant le travail inutile</td>
+			  </tr>	
+			  <tr>
+				  <td>11.</td>
+				  <td>Auto-organiser et responsabiliser les équipes</td>
+			  </tr>	
+			  <tr>
+				  <td>12.</td>
+				  <td>Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement</td>
+			  </tr>				
+		</table>	
+	</ul>
 	<li><b>CALMS</b></li>
 	<br>
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
@@ -269,7 +342,7 @@
 		</div>
 		<li><b>Expérimentation et apprentissage continus</b></li>
 		</p>
-		<p><i>La troisième voix met l'accent sur la culture et le comportement permettant d'atteindre la maîtrise</i></p>
+		<p><i>La troisième voix met l'accent sur la culture et le comportement pour atteindre la maîtrise</i></p>
 		<div>
 			<table>
 				  <tr>
