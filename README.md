@@ -55,7 +55,7 @@
 	</table>
 </div>
 		   
-<h3>Les Fondements</h3>
+<h3>Les Bases</h3>
 <p><a href="http://devops.com/2016/03/17/what-devops-is-not/">5 Things DevOps is NOT !</a></p>
 <p>
 	DevOps est basé sur un <b>CBOK</b> (Collective Body of Knowledge) : référentiel de connaissances partagées et collectives
