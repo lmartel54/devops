@@ -1,14 +1,12 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 <h3>Ma définition ?</h3>
 <p>J'utiliserais le <b>cercle d'or</b> (méthode popularisée par <b>Simon Sinek</b>, visant à améliorer la stratégie de communication des entreprises)</p>
 <div>
 	<table>
 		  <tr>
-			  <td><b>WHY</b></td>
+			  <td><b>WHY</b></mark></td>
 			  <td>Définir un modèle organisationnel visant à aligner les objectifs Business avec sur ceux de l'IT</td>
 		  </tr>
 		  <tr>
@@ -141,12 +139,131 @@
 		<li><b>S</b>haring: Partage d'informations</li>
 	</ul>
 	<br>
-	<li><b>The Three ways</b></li>
+	<li><b>THREE WAYS</b></li>
 	<br>
-	<p>Rédigé par <b>Gene Kim</b> dans le livre "The Phoenix Project", décrivant une façon de fournir de la valeur à un rythme plus rapide</p>
+	<p>Rédigé par <b>Gene Kim</b> dans le livre "The Phoenix Project", décrit une façon de fournir de la valeur à un rythme plus rapide</p>
 	<ul>
-		<li><b>Flux</b>: Comprendre et améliorer le flux de travail</li>
+		<li><u><b>Flux</b></u>: Comprendre et améliorer le flux de travail</li>
+		</p>
+		<p><i>La première voix met l'accent sur la pensée systémique, l'optimisation du processus métier, sa rationalisation et sa fiabilité</i></p>
+		<div>
+			<table>
+				  <tr>
+					  <td><b>Intégration continue</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Livraison continue</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Déploiement continu</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Lean</b></td>
+					  <td>Amélioration continue des processus de production</td>
+				  </tr>
+				  <tr>
+					  <td><b>VSM</b><br>(Value Stream Mapping)</td>
+					  <td>
+						Cartographie des flux (production/information) visant à identifier:
+						<ul>
+							<li>les opérations sans valeur ajoutée afin de les supprimer ou de les réduire</li>
+							<li>les opportunités d’amélioration</li>
+						</ul>	
+					  </td>
+				  </tr>
+				  <tr>
+					  <td><b>Kanban</b></td>
+					  <td>
+						Méthode inventée en 1950 par Taiichi Ohno chez Toyata visant à améliorer le flux de travail:
+						<ul>
+							<li>flux tendu: production tirée par la demande, non poussée à partir des prévisions</li>
+							<li>réduction de l'espace, des stocks et du WIP (Work in Progress)</li>
+							<li>dashboard : suivre l'état d'avancement des tâches à accomplir [REQUESTED, IN_PROGRESS, DONE]</li>
+						</ul>	
+					  </td>					  
+				  </tr>  
+				  <tr>
+					  <td><b>Théorie des Contraintes</b><br>(TOC)</td>
+					  <td>Initié par Eliyahu M. Goldratt dans le livre "The Goal" en 1984</td>
+				  </tr>  
+			</table>
+		</div>
 		<li><b>Feedback</b>: Créer des boucles de feedback permettant une amélioration continue</li>
+		</p>
+		<p><i>La deuxième voix met l'accent sur XXXXXX</i></p>
+		<div>
+			<table>
+				  <tr>
+					  <td><b>Fail Fast</b></td>
+					  <td>Méthode d'apprentissage par l'échec</td>
+				  </tr>
+				  <tr>
+					  <td><b>Tests automatisés</b></td>
+				  	  <td>
+					    	<ul>
+							<li><b>Fonctionnels</b> (vérifier la conformité // cahier des charges)</li>
+							<ul>
+								<li>Tests unitaires</li>
+								<li>Tests d'intégration</li>
+								<li>Tests du système (homologation)</li>
+								<li>Tests d'acceptation (recette)</li>
+								<li>Tests IHM</li>
+								<li>Tests de non-régression</li>
+							</ul>
+							<li><b>NON fonctionnels</b></li>
+							<ul>
+								<li>Tests de performance</li>
+								<li>Tests de charge</li>
+								<li>Tests de résistance</li>
+								<li>Tests de volume</li>
+								<li>Tests de sécurité</li>
+								<li>Tests d'installation</li>
+								<li>Tests de récupération</li>
+							</ul>
+						</ul>	
+					  </td>
+				  </tr>
+				  <tr>
+					  <td><b> Revue par les pairs des changements de production</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Pratiques de surveillance et de notification</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Tableaux de bord</b></td>
+					  <td>???</td>
+				  </tr>	
+				  <tr>
+					  <td><b>Monitoring</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Logs</b></td>
+					  <td>???</td>
+				  </tr>	
+				  <tr>
+					  <td><b>Mesures/Indicateurs de processus</b></td>
+					  <td>???</td>
+				  </tr>	
+				  <tr>
+					  <td><b>Autopsie</b></td>
+					  <td>???</td>
+				  </tr>	
+				  <tr>
+					  <td><b>Rotation d'astreinte partagée</b></td>
+					  <td>???</td>
+				  </tr>	
+				  <tr>
+					  <td><b>Données</b></td>
+					  <td>gestion des changements, des incidents, des problèmes et des connaissances</td>
+				  </tr>	
+			</table>
+		</div>
 		<li><b>Expérimentation et apprentissage continus</b></li>
 	</ul>	
 <ul>
