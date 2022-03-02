@@ -60,7 +60,7 @@
 <p>
 	DevOps est basé sur un <b>CBOK</b> (Collective Body of Knowledge) : référentiel de connaissances partagées et collectives
 	<ul>
-		<li><b>Des conférences</b></li>
+		<li><b>Conférences</b></li>
 		<br>
 		<table>
 			  <tr>
@@ -72,7 +72,7 @@
 				  <td>fondé par Gene Kim en 2014</td>
 			  </tr>  
 		</table>
-		<li><b>Des rapports annuels</b></li>
+		<li><b>Rapports annuels</b></li>
 		<br>
 		<table>
 			  <tr>
@@ -109,7 +109,7 @@
 				  </td>
 			  </tr>
 		</table>
-		<li><b>Des ouvrages de référence</b></li>
+		<li><b>Ouvrages de référence</b></li>
 		<br>
 		<table>
 			  <tr>
@@ -130,7 +130,7 @@
 <ul>
 	<li><b>AGILE</b></li>
 	<br>
-	<p>Méthode basée sur le <b>Manifeste Agile</b> rédigé en 2001</i></p>
+	<p>Régie par le <b>Manifeste Agile</b> rédigé en 2001</i></p>
 	<ul>
 		<li><b>4 valeurs</b></li>
 		<table>
@@ -152,7 +152,7 @@
 			  </tr>
 		</table>
 		<li><b>12 principes</b></li>
-		<table>
+		<table>	
 			  <tr>
 				  <td>1.</td>
 				  <td>Prioriser la satisfaction du client</td>
@@ -201,6 +201,22 @@
 				  <td>12.</td>
 				  <td>Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement</td>
 			  </tr>				
+		</table>
+		<li><b>Méthodes / Frameworks pouvant être qualifiées d'agiles</b></li>
+		<table>
+			  <tr>
+				  <td>Scrum</td>
+				  <td>Présenté en 1995 par <b>Ken Schwaber</b>, publié en 2010</td>
+			  </tr>
+			  <tr>
+				  <td>eXtreme Programming</td>
+				  <td>Publié en 1999 par <b>Kent Beck</b></td>
+			  </tr>
+			  <tr>
+				  <td>SAFe</td>
+				  <td>Lancé en 2011 par <b>Dean Leffingwell et Drew Jemilo</b><br> 
+				      <i>Scaled Agile Framework</i> est un ensemble de modèles d'organisation et de workflow pour l'implémentation des pratiques Agile à l'échelle de l'entreprise</td>
+			  </tr>
 		</table>	
 	</ul>
 	<li><b>CALMS</b></li>
