@@ -195,7 +195,7 @@
 		</div>
 		<li><b>Feedback</b>: Créer des boucles de feedback permettant une amélioration continue</li>
 		</p>
-		<p><i>La deuxième voix met l'accent sur XXXXXX</i></p>
+		<p><i>La deuxième voix met l'accent sur l'amélioration continue</i></p>
 		<div>
 			<table>
 				  <tr>
@@ -268,7 +268,7 @@
 		</div>
 		<li><b>Expérimentation et apprentissage continus</b></li>
 		</p>
-		<p><i>La troisième voix met l'accent sur XXXXXX</i></p>
+		<p><i>La troisième voix met l'accent sur la culture et le comportement</i></p>
 		<div>
 			<table>
 				  <tr>
