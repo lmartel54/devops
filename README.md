@@ -227,7 +227,7 @@
 					  </td>
 				  </tr>
 				  <tr>
-					  <td><b> Revue par les pairs des changements de production</b></td>
+					  <td><b>Revue par les pairs des changements de production</b></td>
 					  <td>???</td>
 				  </tr>
 				  <tr>
@@ -265,6 +265,114 @@
 			</table>
 		</div>
 		<li><b>Expérimentation et apprentissage continus</b></li>
+		</p>
+		<p><i>La troisième voix met l'accent sur XXXXXX</i></p>
+		<div>
+			<table>
+				  <tr>
+					  <td><b>PDCA</b><br>(Deming Cycle)</td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Improvement Kata</b></td>
+				  	  <td>
+					    	<ul>
+							<li><b>Définir</b> la direction (l'objectif "idéal" à atteindre)</li>
+							<li><b>Comprendre</b> la situation actuelle et savoir l'évaluer (métrics)</li>
+							<li><b>Etablir</b> le prochain état cible</li>
+							<li><b>PDCA</b>: méthodologie itérative permettant d'atteindre la condition cible</li>
+							<ul>
+								<li><b>Plan</b>: définir les objectifs</li>
+								<li><b>Do</b>: exécuter</li>
+								<li><b>Check</b>: vérifier les résultats obtenus</li>
+								<li><b>Act</b>: évaluer puis réessayez</li>
+							</ul>
+						</ul>	
+					  </td>
+				  </tr>
+				  <tr>
+					  <td><b>Hackatons</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Chaos Engineering</b></td>
+					  <td>
+					    	<ul>
+							<li><b>Design for failure</b> (DFF) est la capacité d’un système à résister aux pannes</li>
+							<table>
+								  <tr>
+									  <td>Timeout</td>
+									  <td>Gérer les délais d'attente</td>
+								  </tr>
+								  <tr>
+									  <td>Retry</td>
+									  <td>Gérer l'indisponibilité</td>
+								  </tr>
+								  <tr>
+									  <td>Fallback</td>
+									  <td>Assurer une réponse, même "dégradée"</td>
+								  </tr>
+								  <tr>
+									  <td>Circuit Breaker</td>
+									  <td>Isoler les défaillances</td>
+								  </tr> 
+								  <tr>
+									  <td>Bulkhead</td>
+									  <td>Eviter l'effet domino</td>
+								  </tr> 
+								  <tr>
+									  <td>BackPressure<br>Rate Limiter</td>
+									  <td>Gérer la charge</td>
+								  </tr> 
+							</table>
+							<li><b>Simian Army</b> est suite d’outils développés par Netflix pour tester la fiabilité, la sécurité ou la résilience de ses infrastructures (AWS)</li>
+							<table>
+								  <tr>
+									  <td>Choas Monkey</td>
+									  <td>1er logiciel conçu en 2011<br>capable de mettre délibérément hors service des instances dans l’environnement de production</td>
+								  </tr>
+								  <tr>
+									  <td>Chaos Gorilla</td>
+									  <td>Logiciel capable de faire tomber une zone complète de disponibilité</td>
+								  </tr>
+								  <tr>
+									  <td>Chaos Kong</td>
+									  <td>Logiciel capable de faire tomber une région complète</td>
+								  </tr>
+								  <tr>
+									  <td>Latency Monkey</td>
+									  <td>Gestion de la perte de performance (voir de l'indisponibilité) d'un composant externe</td>
+								  </tr> 
+								  <tr>
+									  <td>Doctor Monkey</td>
+									  <td>Gestion des instances présentant des risques de santé</td>
+								  </tr> 
+								  <tr>
+									  <td>Janitor Monkey</td>
+									  <td>Gestion des instances non utilisées</td>
+								  </tr> 
+								  <tr>
+									  <td>Conformity Monkey</td>
+									  <td>Gestion des instances non conformes</td>
+								  </tr> 	
+								  <tr>
+									  <td>Security Monkey</td>
+									  <td>Gestion des instances qui présentent des vulnérabilités</td>
+								  </tr> 
+								  <tr>
+									  <td>10–18 Monkey</td>
+									  <td>Gestion des instances qui présentent des problèmes de localisation ou de langage (l10n-i18n)</td>
+								  </tr> 
+							</table>
+						</ul>
+					  </td>		  
+				  </tr>
+				  <tr>
+					  <td><b>Tableaux de bord</b></td>
+					  <td>???</td>
+				  </tr>	
+			</table>
+		</div>
 	</ul>	
 <ul>
 
