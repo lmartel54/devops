@@ -268,7 +268,7 @@
 		</div>
 		<li><b>Expérimentation et apprentissage continus</b></li>
 		</p>
-		<p><i>La troisième voix met l'accent sur la culture et le comportement</i></p>
+		<p><i>La troisième voix met l'accent sur la culture et le comportement permettant d'atteindre la maîtrise</i></p>
 		<div>
 			<table>
 				  <tr>
