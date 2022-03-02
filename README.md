@@ -327,7 +327,7 @@
 									  <td>Gérer la charge</td>
 								  </tr> 
 							</table>
-							<li><b>Simian Army</b> est suite d’outils développés par Netflix pour tester la fiabilité, la sécurité ou la résilience de ses infrastructures (AWS)</li>
+							<li><b>Simian Army</b> est suite d’outils développés par <b>Netflix</b> pour tester la fiabilité, la sécurité ou la résilience de ses infrastructures (AWS)</li>
 							<table>
 								  <tr>
 									  <td>Choas Monkey</td>
