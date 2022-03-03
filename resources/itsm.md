@@ -11,7 +11,7 @@
 	<br>
 	<li><b>Processus</b></li>
 		<br>
-		<img src="../images/itsm-processes.png" width="400"/>
+		<img src="../images/itsm-processes.png"/>
 	<br>
 	<li><b>Gains d’efficacité</b></li>
 		<br>
