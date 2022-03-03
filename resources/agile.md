@@ -6,6 +6,7 @@
 </table>	
 <ul>
 	<li><b>4 valeurs</b></li>
+	<br>
 	<table>
 		  <tr>
 			  <td>1.</td>
@@ -25,6 +26,7 @@
 		  </tr>
 	</table>
 	<li><b>12 principes</b></li>
+	<br>
 	<table>	
 		  <tr>
 			  <td>1.</td>
@@ -75,12 +77,40 @@
 			  <td>Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement</td>
 		  </tr>				
 	</table>
-	<li><b>Méthodes / Frameworks pouvant être qualifiées d'agiles</b></li>
+	<li><b>Les Frameworks</b></li>
+	<br>
+	<ul>
+		<li><b>Scrum</b></li>
+		<br>
+		<p>Fondé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010), il définit un <b>"cadre de travail"</b> reposant sur:</p>
+		<ul>
+			<li><b>3 Rôles</b> (responsabilités)</li>
+				<table>
+					<tr>
+						<td>Product Owner</td>
+						<td>
+							Il gère:
+							<ul>
+								<li>le <b>backlog</b></li>
+								<li>les <b>livraisons</b></li>
+								<li>les <b>parties prenantes</b></li>
+							</il
+						</td>
+					</tr>
+					<tr>
+						<td>Scrum Master</td>
+						<td>???</td>
+					</tr>
+					<tr>
+						<td>Team (Developpers,...)</td>
+						<td>Rassemble les personnes qui réalisent le travail.<br>Ils traitent tout ou partie utile d’un <b>Increment</b> à chaque <b>Sprint</b></td>
+					</tr>
+				</table>	
+			<li><b>3 Artefacts</b></li>
+			<li><b>5 Evénements</b></li>
+		</ul	
+	</ul>
 	<table>
-		  <tr>
-			  <td>Scrum</td>
-			  <td>Présenté en 1995 par <b>Ken Schwaber</b>, publié en 2010</td>
-		  </tr>
 		  <tr>
 			  <td>eXtreme Programming</td>
 			  <td>Publié en 1999 par <b>Kent Beck</b></td>
