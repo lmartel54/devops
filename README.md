@@ -178,7 +178,7 @@
 				  <tr>
 					  <td><b>Kanban</b></td>
 					  <td>
-						Méthode inventée en 1950 par Taiichi Ohno chez Toyata visant à améliorer le flux de travail:
+						<b>Méthode</> inventée en 1950 par Taiichi Ohno chez Toyata <b>visant à améliorer le flux de travail</b>:
 						<ul>
 							<li><b>flux</b> tendu: <b>tiré</b> par la demande, et non poussée à partir des prévisions</li>
 							<li><b>réduction</b> de l'espace, des stocks et du <b>WIP</b> (Work in Progress)</li>
