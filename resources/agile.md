@@ -80,29 +80,24 @@
 	<li><b>Les Frameworks</b></li>
 	<br>
 	<ul>
-		<li><b><a href="../docs/2020-scrum-guide.pdf">Scrum</a></b></li>
+		<li><b><a href="https://scrumguides.org/index.html">Scrum</a></b> (<a href="../docs/2020-scrum-guide.pdf">official guide</a>)</li>
+			<br>
+			<p>Framework créé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010) qui définit un <b>"cadre de travail"</b></p>
+			<img src="../images/scrum.png"/>
+			<table>
+				<tr>
+					<th><i>Product Backlog</i></th>
+				</tr>
+				<tr>
+					<td><img src="../images/product-backlog.png" width="350"</td>
+				</tr>
+			</table>
 		<br>
-		<p>Framework créé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010) définissant un <b>"cadre de travail" Agile</b></p>
-		<img src="../images/scrum.png"/>
-		<table>
-			<tr>
-				<th colspan=2>Product Backlog</th>
-			</tr>
-			<tr>
-				<th>Product Backlog</th>
-			</tr>
-		</table>       
-		<img src="../images/product-backlog.png" width="300"/>
+		<li><b><a href="https://www.scaledagileframework.com/">SAFe</a></b></li>
+		<br>
+		<p>Lancé en 2011 par <b>Dean Leffingwell et Drew Jemilo</b>, <b>S</b>caled <b>A</b>gile <b>F</b>ramework</i> est un ensemble de modèles d'organisation et de workflow pour l'implémentation des <b>pratiques Agile à l'échelle de l'entreprise</b></p>
+		<li><b>eXtreme Programming</b> (XP)</li>
+		<br>
+		<p>Méthode publié en 1999 par <b>Kent Beck</b> dans le livre Extreme Programming Explained</p>
 	</ul>
-	<table>
-		  <tr>
-			  <td>eXtreme Programming</td>
-			  <td>Publié en 1999 par <b>Kent Beck</b></td>
-		  </tr>
-		  <tr>
-			  <td>SAFe</td>
-			  <td>Lancé en 2011 par <b>Dean Leffingwell et Drew Jemilo</b><br> 
-			      <i>Scaled Agile Framework</i> est un ensemble de modèles d'organisation et de workflow pour l'implémentation des pratiques Agile à l'échelle de l'entreprise</td>
-		  </tr>
-	</table>	
 </ul>
