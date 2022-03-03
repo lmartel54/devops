@@ -1,6 +1,6 @@
 <table>
 	<tr>
-		<td><img src="../images/agile.png" width="100"/></td>
+		<td><img src="../images/agile.png" width="150"/></td>
 		<td>Approche itérative régie par le <b>Manifeste Agile</b> rédigé en 2001</td>
 	</tr>
 </table>	
@@ -85,29 +85,68 @@
 		<p>Fondé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010), il définit un <b>"cadre de travail"</b> reposant sur:</p>
 		<ul>
 			<li><b>3 Rôles</b> (responsabilités)</li>
+				<br>
 				<table>
 					<tr>
-						<td>Product Owner</td>
+						<td><b>Product Owner</b></td>
 						<td>
 							Gère:
 							<ul>
-								<li>le <b>backlog</b></li>
-								<li>les <b>livraisons</b></li>
-								<li>les <b>parties prenantes</b></li>
+								<li>le backlog<</li>
+								<li>les livraisons</li>
+								<li>les parties prenantes</li>
 							</il
 						</td>
 					</tr>
 					<tr>
-						<td>Scrum Master</td>
+						<td><b>Scrum Master</b></td>
 						<td>Assure la cohérence</td>
 					</tr>
 					<tr>
-						<td>Team (Developpers,...)</td>
+						<td><b>Team</b> (Developpers,...)</td>
 						<td>Traitent tout ou partie utile d’un <b>Increment</b> à chaque <b>Sprint</b></td>
 					</tr>
 				</table>	
 			<li><b>3 Artefacts</b></li>
+				<br>	
+				<table>
+					<tr>
+						<td><b>Product Backlog</b></td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td><b>Sprint Backlog</b></td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td><b>Incrément</b> (Developpers,...)</td>
+						<td>---</td>
+					</tr>
+				</table>					
 			<li><b>5 Evénements</b></li>
+				<br>	
+				<table>
+					<tr>
+						<td><b>Sprint</b></td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td><b>Sprint planning</b></td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td><b>Daily Scrum</b></td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td><b>Sprint review</b></td>
+						<td>---</td>
+					</tr>
+					<tr>
+						<td><b>Sprint restrospective</b></td>
+						<td>---</td>
+					</tr>
+				</table>
 		</ul	
 	</ul>
 	<table>
