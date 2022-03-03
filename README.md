@@ -178,9 +178,9 @@
 				  <tr>
 					  <td><b>Kanban</b></td>
 					  <td>
-						<b>Méthode</> inventée en 1950 par Taiichi Ohno chez Toyata <b>visant à améliorer le flux de travail</b>:
+						<b>Méthode</b> inventée en 1950 par Taiichi Ohno chez Toyata <b>visant à améliorer le flux de travail</b>:
 						<ul>
-							<li><b>flux</b> tendu: <b>tiré</b> par la demande, et non poussée à partir des prévisions</li>
+							<li>flux tendu: <b>tiré par la demande</b>, et non poussée à partir des prévisions</li>
 							<li><b>réduction</b> de l'espace, des stocks et du <b>WIP</b> (Work in Progress)</li>
 							<li><b>visualisation du travail</b> : dashboard permettant de suivre l'état d'avancement des tâches à accomplir [REQUESTED, IN_PROGRESS, DONE]</li>
 							<li><b>mesure la vélocité</b> de l'équipe (quantité de travail par itération)</li>
