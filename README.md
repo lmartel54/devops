@@ -7,7 +7,7 @@
 	<table>
 		  <tr>
 			  <td><b>WHY</b></mark></td>
-			  <td>Définir un modèle organisationnel visant à aligner les objectifs Business avec sur ceux de l'IT</td>
+			  <td>Définir un modèle organisationnel visant à aligner les objectifs Business avec ceux de l'IT</td>
 		  </tr>
 		  <tr>
 			  <td><b>HOW</b></td>
