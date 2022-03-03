@@ -80,74 +80,10 @@
 	<li><b>Les Frameworks</b></li>
 	<br>
 	<ul>
-		<li><b>Scrum</b></li>
+		<li><b><a href="../docs/2020-scrum-guide.pdf">Scrum</a></b></li>
 		<br>
-		<p>Fondé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010), il définit un <b>"cadre de travail"</b> reposant sur:</p>
-		<ul>
-			<li><b>3 Rôles</b> (responsabilités)</li>
-				<br>
-				<table>
-					<tr>
-						<td><b>Product Owner</b></td>
-						<td>
-							Gère:
-							<ul>
-								<li>le backlog<</li>
-								<li>les livraisons</li>
-								<li>les parties prenantes</li>
-							</il
-						</td>
-					</tr>
-					<tr>
-						<td><b>Scrum Master</b></td>
-						<td>Assure la cohérence</td>
-					</tr>
-					<tr>
-						<td><b>Team</b> (Developpers,...)</td>
-						<td>Traitent tout ou partie utile d’un <b>Increment</b> à chaque <b>Sprint</b></td>
-					</tr>
-				</table>	
-			<li><b>3 Artefacts</b></li>
-				<br>	
-				<table>
-					<tr>
-						<td><b>Product Backlog</b></td>
-						<td>---</td>
-					</tr>
-					<tr>
-						<td><b>Sprint Backlog</b></td>
-						<td>---</td>
-					</tr>
-					<tr>
-						<td><b>Incrément</b> (Developpers,...)</td>
-						<td>---</td>
-					</tr>
-				</table>					
-			<li><b>5 Evénements</b></li>
-				<br>	
-				<table>
-					<tr>
-						<td><b>Sprint</b></td>
-						<td>---</td>
-					</tr>
-					<tr>
-						<td><b>Sprint planning</b></td>
-						<td>---</td>
-					</tr>
-					<tr>
-						<td><b>Daily Scrum</b></td>
-						<td>---</td>
-					</tr>
-					<tr>
-						<td><b>Sprint review</b></td>
-						<td>---</td>
-					</tr>
-					<tr>
-						<td><b>Sprint restrospective</b></td>
-						<td>---</td>
-					</tr>
-				</table>
-		</ul	
+		<p>Framework créé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010) définissantun <b>"cadre de travail"</b></p>
+		<img src="../images/scrum.png"/>
 	</ul>
 	<table>
 		  <tr>
