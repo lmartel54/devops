@@ -168,7 +168,7 @@
 				  <tr>
 					  <td><b>VSM</b><br>(Value Stream Mapping)</td>
 					  <td>
-						Cartographie des flux (production/information) visant à identifier:
+						<b>Cartographie des flux</b> (production/information) visant à identifier:
 						<ul>
 							<li>les opérations sans valeur ajoutée afin de les supprimer ou de les réduire</li>
 							<li>les opportunités d’amélioration</li>
