@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="../images/devops.png" width="100"/>
+  <img src="images/devops.png" width="250"/>
 </div>
 <h3>Ma définition ?</h3>
 <p>J'utiliserais le <b>cercle d'or</b> (méthode popularisée par <b>Simon Sinek</b>, visant à améliorer la stratégie de communication des entreprises)</p>
