@@ -89,7 +89,7 @@
 					<tr>
 						<td>Product Owner</td>
 						<td>
-							Il gère:
+							Gère:
 							<ul>
 								<li>le <b>backlog</b></li>
 								<li>les <b>livraisons</b></li>
@@ -99,11 +99,11 @@
 					</tr>
 					<tr>
 						<td>Scrum Master</td>
-						<td>???</td>
+						<td>Assure la cohérence</td>
 					</tr>
 					<tr>
 						<td>Team (Developpers,...)</td>
-						<td>Rassemble les personnes qui réalisent le travail.<br>Ils traitent tout ou partie utile d’un <b>Increment</b> à chaque <b>Sprint</b></td>
+						<td>Traitent tout ou partie utile d’un <b>Increment</b> à chaque <b>Sprint</b></td>
 					</tr>
 				</table>	
 			<li><b>3 Artefacts</b></li>
