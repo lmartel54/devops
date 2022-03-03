@@ -128,7 +128,7 @@
 
 <h3>Les grands principes</h3>
 <ul>
-	<li><a href="./resources/agile.md">AGILE</a></li>
+	<li><a href="./resources/agile.md">AGILE</a>, <a href="./resources/lean.md">LEAN</a> (gestion organisationelle), <a href="./resources/itsm.md">ITSM</a> (gestion services IT),</li>
 	<li><b>CALMS</b></li>
 	<br>
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
