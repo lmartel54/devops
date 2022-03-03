@@ -82,8 +82,17 @@
 	<ul>
 		<li><b><a href="../docs/2020-scrum-guide.pdf">Scrum</a></b></li>
 		<br>
-		<p>Framework créé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010) définissantun <b>"cadre de travail"</b></p>
+		<p>Framework créé en 1990 par <b>Ken Schwaber & Jeff Sutherland</b> (et publié en 2010) définissant un <b>"cadre de travail" Agile</b></p>
 		<img src="../images/scrum.png"/>
+		<table>
+			<tr>
+				<th colspan=2>Product Backlog</th>
+			</tr>
+			<tr>
+				<th>Product Backlog</th>
+			</tr>
+		</table>       
+		<img src="../images/product-backlog.png" width="300"/>
 	</ul>
 	<table>
 		  <tr>
