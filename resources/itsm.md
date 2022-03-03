@@ -1,7 +1,7 @@
 <table>
 	<tr>
-		<td><img src="../images/agile.png" width="150"/></td>
-		<td>Approche itérative régie par le <b>Manifeste Agile</b> rédigé en 2001</td>
+		<td><img src="../images/itsm.png" width="150"/></td>
+		<td>Approche stratégique décrivant les processus métier et les outils permettant de fournir l'IT en tant que service</td>
 	</tr>
 </table>
 ITSM
