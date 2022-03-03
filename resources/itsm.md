@@ -10,6 +10,10 @@
 		<img src="../images/itsm-value.png"/>
 	<br>
 	<li><b>Processus</b></li>
+		<br>
+		<img src="../images/itsm-processes.png"/>
 	<br>
 	<li><b>Gains d’efficacité</b></li>
+		<br>
+		<img src="../images/itsm-efficiencies.png"/>	
 </ul>
