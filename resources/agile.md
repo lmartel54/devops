@@ -1,4 +1,5 @@
-<p>Régie par le <b>Manifeste Agile</b> rédigé en 2001</i></p>
+<p>
+Approche itérative régie par le <b>Manifeste Agile</b> rédigé en 2001</i></p>
 <ul>
 	<li><b>4 valeurs</b></li>
 	<table>
