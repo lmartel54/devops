@@ -4,4 +4,12 @@
 		<td>Approche stratégique décrivant les processus et les outils permettant de fournir l'<b>IT en tant que service</b></td>
 	</tr>
 </table>
-ITSM
+<ul>
+	<li><b>4 secteurs</b> (dits les quatre P):</li>
+		<br>
+		<img src="../images/itsm-value.png"/>
+	<br>
+	<li><b>Processus</b></li>
+	<br>
+	<li><b>Gains d’efficacité</b></li>
+</ul>
