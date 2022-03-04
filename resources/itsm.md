@@ -7,7 +7,7 @@
 	</tr>
 </table>
 <ul>
-	<li><b>ITIL 4</b> (IT Infrastructure Library), référentiel méthodologique< qui aide à gérer les services IT au sein de l’entreprise</li>
+	<li><b>ITIL 4</b> (IT Infrastructure Library), référentiel méthodologique qui aide à gérer les services IT au sein de l’entreprise</li>
 	<br>
 	<ul>
 		<li><b>4 Dimensions model</b> (remplace les <b>4P : Personnes, Produits, Partenaires et Processus</b>)</li>
