@@ -11,19 +11,6 @@
 		<br>
 		<img src="../images/itsm-value.png"/>
 		</p>
-	<li><b>Axé sur les Processus</b> (Ensemble d'activités coordonnées combinant des ressources et des aptitudes)</li>
-		<br>
-		<ul>
-			<li>gestion des demandes</li>		
-			<li>gestion des incidents</li>
-			<li>gestion des problèmes</li>
-			<li>gestion des changements et des mises en production</li>
-			<li>gestion des niveaux de service</li>
-			<li>gestion de la configuration</li>
-			<li>gestion de l’amélioration continue</li>
-			<li>gestion des workflows et des talents</li>
-		</ul>
-		<br>
 	<li><b>Gains</b></li>
 		</br>
 		<ul>
@@ -36,16 +23,24 @@
 			<li>Retour rapide à la normale après des problèmes IT critiques</li>
 		</ul>
 		<br>
-	<li><b>ITL</b> (IT Infrastructure Library)</li>
+	<li><b>ITIL 4</b> (IT Infrastructure Library)</li>
 	<br>
 	<p><b>Référentiel méthodologique</b> qui aide à gérer les services IT au sein de l’entreprise</p>
 	<ul>
-		<li><b>Modèle à 4 dimensions</b> (reflète les <b>4P : Personnes, Produits, Partenaires et Processus</b>)</li>
+		<li><b>4 dimensions model</b> (qui remplace les <b>4P : Personnes, Produits, Partenaires et Processus</b>)</li>
+		<img src="../images/itil-4dimensions.jpg"/>
+		<li><b>Service Value System</b> (SVS), représente la manière dont tous les composants et activités d'une organisation travaillent ensemble</li>
+		<img src="../images/itil-svs.jpg"/>
+		<li><b>Service Value Chain</b> (SVC), décrit les activités clés requises pour répondre à la demande</li>
+		<img src="../images/itil-svc.jpg"/>
+		<li><b>34 practices</b> into <b>3 categories</b> (qui remplace les <b>Processus</b>)</li>
+		<img src="../images/itil-practices.jpg"/>
 	</ul
 	<li>un <b>cadre de travail</b></li>,
 </ul>
 
 		<p>Un processus ITIL doit donc avoir les caractéristiques suivantes :</p>
+		(Ensemble d'activités coordonnées combinant des ressources et des aptitudes)
 		<ul>
 			<li>Etre mesurable</li>
 			<li>Fournir un résultat spécifique</li>
