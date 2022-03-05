@@ -435,6 +435,6 @@
 			</tbody>
 		</table>
 		<li><p><b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>, réprésente le temps d'adoption des nouvelles idées</p></li>
-		<img src="diffusion-of-innovations.png"/>
+		<img src="images/diffusion-of-innovations.png"/>
 	</ul>
 </ul>
