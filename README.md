@@ -275,7 +275,7 @@
 				  <tr>
 					  <td><b>PDCA</b><br>(Deming Cycle)</td>
 					  <td>
-						<p>Méthodologie itérative permettant d'atteindre la condition cible</p> 
+						Méthodologie itérative permettant d'atteindre la condition cible
 						<ul>
 							<li><b>Plan</b>: définir les objectifs</li>
 							<li><b>Do</b>: exécuter</li>
@@ -287,14 +287,18 @@
 				  <tr>
 					  <td><b>Improvement Kata</b></td>
 				  	  <td>
-					    	<ul>
-							<li><b>Définir</b> la direction (l'objectif "idéal" à atteindre)</li>
-							<li><b>Comprendre</b> la situation actuelle et savoir l'évaluer (métrics)</li>
-							<li><b>Etablir</b> le prochain état cible</li>
-							<li><b>PDCA*</b></li>
-						</ul>	
+					    	<ol type="1">
+							<li>Comprendre la vision ou l’orientation à long terme</li>
+							<li>Analyser l’existant et savoir l'évaluer (Métrics)</li>
+						  	<li>Définir un objectif d’amélioration</li>
+							<li><b>PDCA*</b> : Expérimenter vers l'objectif</li>
+						</ol>	
 					  </td>
 				  </tr>
+				  <tr>
+					  <td><b>Andon Cord</b></td>
+					  </td></td>	  
+				  </tr>	  
 				  <tr>
 					  <td><b>Hackatons</b></td>
 					  <td>???</td>
