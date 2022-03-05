@@ -446,7 +446,16 @@
 			</tr>
 			<tr>
 				<td><b>PERSUASION</b></td>
-				<td>Etape cruciale, l’individu amorce une prise de position au sujet de l’innovation</td>
+				<td>
+					Etape cruciale, l’individu amorce une prise de position au sujet de l’innovation suivant <b>5 critères d'évaluation</b>:
+					<ul>
+						<li>son avantage relatif</li>
+						<li>sa compatibilité avec les valeurs du groupe d’appartenance</li>
+						<li>sa complexité</li>
+						<li>la possibilité de la tester</li>
+						<li>sa visibilité pour montrer les résultats aux autres</li>
+					</ul>	
+				</td>
 			</tr>
 			<tr>
 				<td><b>Décision</b></td>
