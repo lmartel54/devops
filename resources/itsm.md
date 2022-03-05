@@ -7,8 +7,43 @@
 	</tr>
 </table>
 <ul>
-	<li><b>ITIL 4</b> (IT Infrastructure Library), référentiel méthodologique qui aide à gérer les services IT au sein de l’entreprise</li>
+	<li></li>
+	<table>
+		<tr>
+			<td><b>COBIT</b></td>
+			<td>
+				<p>Control Objectives for Information and Related Technology<br>
+				Référentiel (principes, outils analytiques et modèles) <b>pour la gouvernance IT</b></p>
+			</td>
+		</tr>
+		<tr>
+			<td><b>MOF</b></td>
+			<td>
+				<p>Microsoft Operations Framework<br>
+				Ensemble de directives destinées à l’écosystème Microsoft, visant à mettre en œuvre des services fiables et rentables</p>
+			</td>
+		</tr>
+		<tr>
+			<td><b>Six Sigma</b></td>
+			<td>
+				<p>Méthode structurée de management visant à améliorer la qualité et l'efficacité des processus.<br>
+				   Elle repose sur la collecte et l’analyse en profondeur des données en vue d’élever les objectifs</p>
+			</td>
+		</tr>		
+		<tr>
+			<td><b>TOGAF</b></td>
+			<td>
+				<p>The Open Group Architecture Framework<br>
+				   Ensemble de concepts et un standard industriel couvrant le domaine des architectures informatiques d'entreprise</p>
+			</td>
+		</tr>		
+	</table>
+	<li><b>Agile Service Management</b> (Agile SM)</li>
 	<br>
+	<p>Garantit que les <b>processus</b> ITSM reflètent les valeurs Agile et sont conçus avec "juste assez" de contrôle et de structure pour faciliter efficacement et efficacement les résultats</p>
+	<li><b>ITIL 4</b> (IT Infrastructure Library)</li>
+	<br>
+	<p><b>Référentiel</b> méthodologique pour la <b>gestion des services IT</b></p>
 	<ul>
 		<li><b>4 Dimensions model</b> (remplace les <b>4P : Personnes, Produits, Partenaires et Processus</b>)</li>
 		<br>
