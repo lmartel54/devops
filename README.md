@@ -129,6 +129,7 @@
 <h3>Les grands principes</h3>
 <ul>
 	<li><b><a href="./resources/agile.md">AGILE</a></b>, <b><a href="./resources/lean.md">LEAN</b></a> (gestion organisationelle), <b><a href="./resources/itsm.md">ITSM</a></b> (IT Service Management) </li>
+	<br>
 	<li><b>CALMS</b></li>
 	<br>
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
@@ -273,7 +274,15 @@
 			<table>
 				  <tr>
 					  <td><b>PDCA</b><br>(Deming Cycle)</td>
-					  <td>???</td>
+					  <td>
+						<p>Méthodologie itérative permettant d'atteindre la condition cible</p> 
+						<ul>
+							<li><b>Plan</b>: définir les objectifs</li>
+							<li><b>Do</b>: exécuter</li>
+							<li><b>Check</b>: vérifier les résultats obtenus</li>
+							<li><b>Act</b>: évaluer puis réessayez</li>
+						</ul>
+					  </td>
 				  </tr>
 				  <tr>
 					  <td><b>Improvement Kata</b></td>
@@ -282,13 +291,7 @@
 							<li><b>Définir</b> la direction (l'objectif "idéal" à atteindre)</li>
 							<li><b>Comprendre</b> la situation actuelle et savoir l'évaluer (métrics)</li>
 							<li><b>Etablir</b> le prochain état cible</li>
-							<li><b>PDCA</b>: méthodologie itérative permettant d'atteindre la condition cible</li>
-							<ul>
-								<li><b>Plan</b>: définir les objectifs</li>
-								<li><b>Do</b>: exécuter</li>
-								<li><b>Check</b>: vérifier les résultats obtenus</li>
-								<li><b>Act</b>: évaluer puis réessayez</li>
-							</ul>
+							<li><b>PDCA*</b></li>
 						</ul>	
 					  </td>
 				  </tr>
@@ -369,10 +372,6 @@
 						</ul>
 					  </td>		  
 				  </tr>
-				  <tr>
-					  <td><b>Tableaux de bord</b></td>
-					  <td>???</td>
-				  </tr>	
 			</table>
 		</div>
 	</ul>	
