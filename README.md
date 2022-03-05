@@ -434,7 +434,32 @@
 					<td><b>L’échec entraîne une véritable interrogation, une réflexion</b></td>
 			</tbody>
 		</table>
-		<li><p><b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>, réprésente le temps d'adoption des nouvelles idées</p></li>
+		<li><p><b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>, réprésente <b>le temps d'adoption</b> des nouvelles idées</p></li>
 		<img src="images/diffusion-of-innovations.png"/>
+		<table>
+			<tr>
+				<th colspan=2 align="left">Les 5 phases de l’adoption</th>
+			</tr>
+			<tr>
+				<td><b>Connaissance</b></td>
+				<td>L’individu est exposé à l’innovation, il réagit en fonction de son profil personnel et du système social dans lequel il évolue</td>
+			</tr>
+			<tr>
+				<td><b>PERSUASION</b></td>
+				<td>Etape cruciale, l’individu amorce une prise de position au sujet de l’innovation</td>
+			</tr>
+			<tr>
+				<td><b>Décision</b></td>
+				<td>L’individu s’engage dans des activités d’utilisation/évaluation, lui permettant d’adopter ou de rejeter l’innovation</td>
+			</tr>	
+			<tr>
+				<td><b>Implantation</b></td>
+				<td>L’individu a besoin d’assistance pour réduire les incertitudes sur les conséquences</td>
+			</tr>	
+			<tr>
+				<td><b>Confirmation</b></td>
+				<td>L’individu tente d’obtenir des informations venant, a posteriori, renforcer son choix</td>
+			</tr>	
+		</table>
 	</ul>
 </ul>
