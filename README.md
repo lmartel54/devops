@@ -379,4 +379,62 @@
 			</table>
 		</div>
 	</ul>	
+</ul>
+<h3>La culture du changement</h3>
 <ul>
+	<li>La culture ne fait qu’une bouchée de toute stratégie (Peter Drucker)</li>
+	<li>Les gens n’offrent pas de résistance au changement mais à être changés (Peter Senge)</li>
+</ul>
+<ul>
+	<li><b>Organisationelle</b></li>
+	<ul>
+		<li><p><b>The Three Cultures Model</b> publié par <b>Ron Westrum</b>, décrit les différentes façons dont les organisations traitent l'information</p></li>
+		<table>
+			<thead>
+			<tr>
+				<th>Pathologique<br>(Orientée vers le pouvoir)</th>
+				<th>Bureaucratique<br>(Orientée vers les règles)</th>
+				<th>Génératrice<br>(Orientée vers la performance)</th>
+			</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Faible coopération</td>
+					<td>Coopération modeste</td>
+					<td>Grande coopération</td>
+				</tr>
+				<tr>
+					<td>Messagers "abattus"</td>
+					<td>Messagers négligés</td>
+					<td>Messagers formés</td>
+				</tr>
+				<tr>
+					<td>Responsabilités non assumées</td>
+					<td>Responsabilités limitées</td>
+					<td>Risques partagés</td>
+				</tr>
+				<tr>
+					<td>Liaison découragée</td>
+					<td>Liaison tolérée</td>
+					<td>Liaison encouragée</td>
+				</tr>
+				<tr>
+					<td>L'échec conduit à se rejeter la faute</td>
+					<td>L'échec conduit au tribunal</td>
+					<td>L'échec conduit à une enquête</td>
+				</tr>
+				<tr>
+					<td>La nouveauté est écrasée</td>
+					<td>La nouveauté crée des problèmes</td>
+					<td>La nouveauté est mise en œuvre</td>
+				</tr>
+				<tr>
+					<td><b>L’échec est souvent caché</b></td>
+					<td><b>L’échec est traité par un système de jugements, qui entraîne soit la punition ou l’acquitement</b></td>
+					<td><b>L’échec entraîne une véritable interrogation, une réflexion</b></td>
+			</tbody>
+		</table>
+		<li><p><b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>, réprésente le temps d'adoption des nouvelles idées</p></li>
+		<img src="diffusion-of-innovations.png"/>
+	</ul>
+</ul>
