@@ -434,7 +434,7 @@
 					<td><b>L’échec entraîne une véritable interrogation, une réflexion</b></td>
 			</tbody>
 		</table>
-		<li><p><b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>, réprésente <b>le temps d'adoption</b> des nouvelles idées</p></li>
+		<li><p><b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>, réprésente <b>le temps d'adoption des nouvelles idées</b></p></li>
 		<img src="images/diffusion-of-innovations.png"/>
 		<table>
 			<tr>
