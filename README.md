@@ -388,7 +388,7 @@
 <ul>
 	<li><b>Organisationelle</b></li>
 	<ul>
-		<li><p><b>The Three Cultures Model</b> publié par <b>Ron Westrum</b>, décrit les différentes façons dont les organisations traitent l'information</p></li>
+		<li><p><b>Les façons dont les organisations traitent l'information</b> : <b>The Three Cultures Model</b> publié par <b>Ron Westrum</b></p></li>
 		<table>
 			<thead>
 			<tr>
@@ -434,7 +434,7 @@
 					<td><b>L’échec entraîne une véritable interrogation, une réflexion</b></td>
 			</tbody>
 		</table>
-		<li><p><b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>, réprésente <b>le temps d'adoption des nouvelles idées</b></p></li>
+		<li><p><b>Le temps d'adoption des nouvelles idées</b> : <b>Diffusion of innovations</b> publié par <b>Everett Rogers</b></p></li>
 		<img src="images/diffusion-of-innovations.png"/>
 		<table>
 			<tr>
@@ -470,5 +470,6 @@
 				<td>L’individu tente d’obtenir des informations venant, a posteriori, renforcer son choix</td>
 			</tr>	
 		</table>
+		<li><p><b>La courbe de changement</b> : <b>Diffusion of innovations</b> publié par <b>Everett Rogers</b></p></li>
 	</ul>
 </ul>
