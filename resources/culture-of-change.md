@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="images/devops.png" width="250"/>
+  <img src="../images/devops-culture.jpg" width="250"/>
 </div>
 <h3>La culture du changement</h3>
 <ul>
@@ -56,7 +56,7 @@
 			</tbody>
 		</table>
 		<li><p><b>Le temps d'adoption des nouvelles idées</b> (<b>Diffusion of innovations</b> publié par <b>Everett Rogers</b>)</p></li>
-		<img src="images/diffusion-of-innovations.png"/>
+		<img src="../images/diffusion-of-innovations.png"/>
 		<table>
 			<tr>
 				<th colspan=2 align="left">Les 5 phases de l’adoption</th>
@@ -92,7 +92,6 @@
 			</tr>	
 		</table>
 		<li><p><b>La courbe de changement "5 étapes clés"</b> (publiée par <b>Elisabeth Kübler-Ross</b>)</p></li>
-		<br>
-		<img src="images/kubler-ross.jpg"/>
+		<img src="../images/kubler-ross.jpg"/>
 	</ul>
 </ul>
