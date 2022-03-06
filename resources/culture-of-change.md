@@ -98,5 +98,6 @@
 	<br>
 	<ul>
 		<li><b>La gestion des conflits</b> (THI) publié par (<b>Thomas-Kilmann</b>)</li>
+		<img src="../images/thomas-kilmann.png"/>
 	</ul>	
 </ul>
