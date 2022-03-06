@@ -297,10 +297,14 @@
 				  </tr>
 				  <tr>
 					  <td><b>Andon Cord</b></td>
-					  </td></td>	  
+					  <td>???</td>	  
 				  </tr>	  
 				  <tr>
 					  <td><b>Hackatons</b></td>
+					  <td>???</td>
+				  </tr>
+				  <tr>
+					  <td><b>Dojos</b></td>
 					  <td>???</td>
 				  </tr>
 				  <tr>
