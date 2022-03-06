@@ -470,6 +470,8 @@
 				<td>L’individu tente d’obtenir des informations venant, a posteriori, renforcer son choix</td>
 			</tr>	
 		</table>
-		<li><p><b>La courbe de changement</b> ()</p></li>
+		<li><p><b>La courbe de changement "5 étapes clés"(</b> publiée par <b>Elisabeth Kübler-Ross</b> (adaptée au monde de l’entreprise par <b>Cynthia Scott et Denis Jaffe</b>)</p></li>
+		<br>
+		<img src="images/kubler-ross.jpg"/>
 	</ul>
 </ul>
