@@ -92,6 +92,6 @@
 			</tr>	
 		</table>
 		<li><p><b>La courbe de changement "5 étapes clés"</b> (publiée par <b>Elisabeth Kübler-Ross</b>)</p></li>
-		<img src="../images/kubler-ross.jpg"/>
+		<img src="../images/kubler-ross.png"/>
 	</ul>
 </ul>
