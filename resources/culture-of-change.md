@@ -94,4 +94,9 @@
 		<li><p><b>La courbe de changement "5 étapes clés"</b> (publiée par <b>Elisabeth Kübler-Ross</b>)</p></li>
 		<img src="../images/kubler-ross.png"/>
 	</ul>
+	<li><b>Collaborative</b> (basé sur la communication)</li>
+	<br>
+	<ul>
+		<li><b>La gestion des conflits</b> (THI) publié par (<b>Thomas-Kilmann</b>)</li>
+	</ul>	
 </ul>
