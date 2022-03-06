@@ -98,6 +98,49 @@
 	<br>
 	<ul>
 		<li><b>La gestion des conflits</b> (THI) publié par (<b>Thomas-Kilmann</b>)</li>
+		<br>
 		<img src="../images/thomas-kilmann.png"/>
+		<table>
+			<tr>
+				<th colspan=3 align="left">Les 5 styles de gestion</th>
+			</tr>
+			<tr>
+				<th align="left"><b><i>Mode</i></b></th>
+				<th align="left"><b></i>Approche</i></b></th>
+				<th align="left"><b></i>Résultat</i></b></th>
+			</tr>
+			<tr>
+				<td>Rivaliser</td>
+				<td>Assertif et NON coopératif</td>
+				<td>Je gagne / Tu perds</td>
+			</tr>
+			<tr>
+				<td>Collaborer</td>
+				<td>Assertif et coopératif</td>
+				<td>Je gagne / Tu gagnes</td>
+			</tr>
+			<tr>
+				<td>Chercher un compromis</td>
+				<td>Partiellement assertif et coopératif</td>
+				<td>Je gagne un peu / Tu gagnes un peu</td>
+			</tr>
+			<tr>
+				<td>Eviter</td>
+				<td>NON assertif et NON coopératif</td>
+				<td>Je perds / Tu perds</td>
+			</tr>
+			<tr>
+				<td>Céder</td>
+				<td>NON assertif et NON coopératif</td>
+				<td>Je perds / Tu gagnes</td>
+			</tr>
+			<tr>
+				<td colspan=3>
+					<b>Assertif</b>*: Capacité à s’exprimer et à défendre ses idées sans empiéter sur celles d'autrui<br>
+					<b>Coopératif</b>*: Participe volontiers à un effort commun<br>
+				</td>
+			</tr>
+		</table>
+		<li><b>La fatigue face aux changements</b></li>
 	</ul>	
 </ul>
