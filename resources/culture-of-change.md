@@ -3,8 +3,8 @@
 </div>
 <h3>La culture du changement</h3>
 <ul>
-	<li>La culture ne fait qu’une bouchée de toute stratégie (Peter Drucker)</li>
-	<li>Les gens n’offrent pas de résistance au changement mais à être changés (Peter Senge)</li>
+	<li><i>La culture ne fait qu’une bouchée de toute stratégie</i> (<b>Peter Drucker</b>)</li>
+	<li><i>Les gens n’offrent pas de résistance au changement mais à être changés</i> (<b>Peter Senge</b>)</li>
 </ul>
 <ul>
 	<li><b>Organisationelle</b></li>
