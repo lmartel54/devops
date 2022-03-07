@@ -8,7 +8,9 @@
 	<li><b>CALMS</b></li>
 	<br>
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
-	<img src="../images/calms.png" align="center"/>
+	<div align="center">
+		<img src="../images/calms.png"/>
+	</div>	
 	<table>
 		<tr>
 			<td><b>C</b>ulture</td>
