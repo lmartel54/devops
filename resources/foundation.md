@@ -171,8 +171,8 @@
 					  </td>
 				  </tr>
 				  <tr>
-					  <td><b>Andon Cord</b></td>
-					  <td>???</td>	  
+					  <td><b>Ignite</b></td>
+					  <td>Session de 5 minutes sur des sujets spécifiques</td>	  
 				  </tr>	  
 				  <tr>
 					  <td><b>Hackatons</b></td>
