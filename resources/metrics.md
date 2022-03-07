@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="../images/devops-culture.jpg" width="150"/>
+  <img src="../images/devops-metrics.jpg" width="250"/>
 </div>
 <h3>Les indicateurs</h3>
 <ul>
