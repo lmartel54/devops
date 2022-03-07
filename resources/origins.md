@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="images/devops-origins.jpg" width="250"/>
+  <img src="../images/devops-origins.jpg" width="250"/>
 </div>
-
 <h3>L'historique</h3>
 <div>
 	<table>
