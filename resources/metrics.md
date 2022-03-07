@@ -68,3 +68,5 @@
 		<td>Synonyme de complexité, de temps de développement et de test allongés, d'incidents de production...</td>	
 	</tr>	
 </table>
+<br>
+<strong>Pyramide des indicateurs DevOps de Gartner ???<strong>
