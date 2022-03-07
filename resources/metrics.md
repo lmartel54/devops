@@ -10,6 +10,10 @@
 <br>
 <table>
 	<tr>
+		<th>Vélocité</th>
+		<td>Mesure du volume de travail effectué dans un intervalle défini</td>	
+	</tr>
+	<tr>
 		<th>Lead Time</th>
 		<td>
 			<b>Délai de mise en place</b><br>
