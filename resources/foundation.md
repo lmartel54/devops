@@ -27,7 +27,7 @@
 			<td>Evaluer les performances</td>
 		</tr>	
 		<tr>
-			<td><b>S</b>haring</td>
+			<td><b>P</b>artage</td>
 			<td>Communiquer et partager les informations</td>
 		</tr>	
 	</table>
