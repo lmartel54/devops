@@ -40,7 +40,7 @@
 	<div align="center">
 		<img src="../images/the-three-ways.jpg" align="center"/>
 	</div>	
-	<ul>
+	<ol type="1">
 		<li><u><b>Flux</b></u>: Comprendre et améliorer le flux de travail</li>
 		</p>
 		<p><i>La première voix met l'accent sur la pensée systémique, l'optimisation du processus métier, sa rationalisation et sa fiabilité</i></p>
@@ -287,5 +287,5 @@
 				  </tr>
 			</table>
 		</div>
-	</ul>	
+	</ol>	
 </ul>
