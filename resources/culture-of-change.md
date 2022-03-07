@@ -7,7 +7,7 @@
 	<li><i>Les gens n’offrent pas de résistance au changement mais à être changés</i> (<b>Peter Senge</b>)</li>
 </ul>
 <ul>
-	<li><b>Organisationelle</b></li>
+	<li><h3><b>Organisationelle</b></h3></li>
 	<ul>
 		<li><p><b>Les façons dont les organisations traitent l'information</b> (<b>The Three Cultures Model</b> publié par <b>Ron Westrum</b>)</p></li>
 		<table>
@@ -94,8 +94,7 @@
 		<li><p><b>La courbe de changement "5 étapes clés"</b> (publiée par <b>Elisabeth Kübler-Ross</b>)</p></li>
 		<img src="../images/kubler-ross.png"/>
 	</ul>
-	<li><b>Collaborative</b> (basé sur la communication)</li>
-	<br>
+	<li><h3><b>Collaborative</b></h3></li>
 	<ul>
 		<li><b>La gestion des conflits</b> (THI) publié par (<b>Thomas-Kilmann</b>)</li>
 		<br>
