@@ -39,7 +39,7 @@
 				  </tr>
 				  <tr>
 					  <td><b>Lean</b></td>
-					  <td>Philosophie qui vise à réduire le gaspillage et améliorer en continue les processus</td>
+					  <td>Philosophie qui vise à <b>réduire le gaspillage</b> et améliorer en continue les processus</td>
 				  </tr>
 				  <tr>
 					  <td><b>VSM</b><br>(Value Stream Mapping)</td>
