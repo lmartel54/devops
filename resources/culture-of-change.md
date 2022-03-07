@@ -141,6 +141,7 @@
 			</tr>
 		</table>
 		<li><b>La fatigue face aux changements</b></li>
-		<p>Sentiment général d'apathie ou de résignation passive à l'égard des changements organisationnels</p>
+		<br>
+		Sentiment général d'apathie ou de résignation passive à l'égard des changements organisationnels
 	</ul>	
 </ul>
