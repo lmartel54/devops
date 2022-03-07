@@ -18,7 +18,7 @@
 		  <tr>
 			  <td><b>WHAT</b></td>
 			  <td><b>Produits et services</b><br>
-				 En utilisant des méthodologies, framework et outils prônant la collaboration et l'amélioration continue</td>
+				 En utilisant des Méthodologies, Framework et Outils prônant la collaboration et l'amélioration continue</td>
 		  </tr>  
 	</table>
 </div>
