@@ -2,7 +2,8 @@
   <img src="images/devops.png" width="250"/>
 </div>
 <ul>
-<li>Ma définition ?</li>
+	<li><strong>Ma définition ?</strong></li>
+	<br>
 	<p>J'utiliserais le <b>cercle d'or</b> (méthode popularisée par <b>Simon Sinek</b>, visant à améliorer la stratégie de communication des entreprises)</p>
 	<div>
 		<table>
