@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="../images/foundation.png" width="250"/>
+  <img src="../images/devops-foundation.png" width="250"/>
 </div>
 <h3>Les fondements</h3>
 <ul>
