@@ -62,14 +62,22 @@
 							<li><b>mesure la vélocité</b> de l'équipe (quantité de travail par itération)</li>
 						</ul>	
 					  </td>					  
-				  </tr>  
+				  </tr>
+				  <tr>
+					  <td><b>ChatOps</b></td>
+					  <td>Approche permettant la collaboration des opérations techniques et commerciales via un groupe de discution</td>
+				  </tr>	  
+				  <tr>
+					  <td><b>DevSecOps</b></td>
+					  <td>Etat d'esprit qui prône la responsabilité partagée de la sécurité d'un système</td>
+				  </tr>	  
 				  <tr>
 					  <td><b>Théorie des Contraintes</b><br>(TOC)</td>
 					  <td>Initié par Eliyahu M. Goldratt dans le livre "The Goal" en 1984</td>
 				  </tr>  
 			</table>
 		</div>
-		<li><b>Feedback</b>: Créer des boucles de feedback permettant une amélioration continue</li>
+		<li><b>Feedback</b>: Créer des boucles de feedback</li>
 		</p>
 		<p><i>La deuxième voix met l'accent sur l'amélioration continue</i></p>
 		<div>
@@ -109,10 +117,6 @@
 					  <td>???</td>
 				  </tr>
 				  <tr>
-					  <td><b>Pratiques de surveillance et de notification</b></td>
-					  <td>???</td>
-				  </tr>
-				  <tr>
 					  <td><b>Tableaux de bord</b></td>
 					  <td>???</td>
 				  </tr>	
@@ -125,16 +129,16 @@
 					  <td>???</td>
 				  </tr>	
 				  <tr>
-					  <td><b>Mesures/Indicateurs de processus</b></td>
+					  <td><b>Indicateurs des processus</b></td>
 					  <td>???</td>
 				  </tr>	
 				  <tr>
-					  <td><b>Autopsie</b></td>
+					  <td><b>Post-Mortem</b></td>
 					  <td>???</td>
 				  </tr>	
 				  <tr>
 					  <td><b>Rotation d'astreinte partagée</b></td>
-					  <td>???</td>
+					  <td>Partage d'informations entre les pilotes d'exploitation</td>
 				  </tr>	
 				  <tr>
 					  <td><b>Données</b></td>
@@ -162,6 +166,7 @@
 				  <tr>
 					  <td><b>Improvement Kata</b></td>
 				  	  <td>
+						Façon structurée de créer une culture d'apprentissage  
 					    	<ol type="1">
 							<li>Comprendre la vision ou l’orientation à long terme</li>
 							<li>Analyser l’existant et savoir l'évaluer (Métrics)</li>
