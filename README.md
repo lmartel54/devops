@@ -26,5 +26,5 @@
 	</div>
 <li><strong><a href="./resources/origins.md">Les origines</a></strong> : ça vient d'où exactement ?</li><br>
 <li><a href="./resources/foundation.md">Les fondements</a></li><br>
-<li><a href="./resources/culture-of-change.md">La culture du changement</a></li><br>
+<li><strong><a href="./resources/culture-of-change.md">La culture du changement</a></strong> : comment faire évoluer les mentalités ?</li><br>
 <li><a href="./resources/metrics.md">Les indicateurs</a></li>
