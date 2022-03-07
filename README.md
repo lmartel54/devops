@@ -120,7 +120,7 @@
 				  </td>
 			  </tr>
 		</table>
-		<li><b>Ouvrages de référence</b></li>
+		<li><b>Ouvrages</b></li>
 		<br>
 		<table>
 			  <tr>
@@ -134,9 +134,13 @@
 				  <td>Gene Kim, Jez Humble, Patrick Debois, John Willis</b>
 			  </tr>  
 		</table>
+		<li><b>Référentiels</b></li>
+		<br>
+		<ul>
+			<li><b><a href="https://xebialabs.com/periodic-table-of-devops-tools">Periodic table of DevOps Tools</a></b> (Xebia Labs)</li>
+		</ul>
 	</ul>	
 </p>	
 <h3><b><a href="./resources/foundation.md">Les fondements</a></b></h3>
 <h3><b><a href="./resources/culture-of-change.md">La culture du changement</a></b></h3>
-<h3><b><a href="./resources/toolchains.md">La Toolchains</a></b></h3>
 <h3><b><a href="./resources/metrics.md">Les indicateurs</a></b></h3>
