@@ -7,15 +7,18 @@
 	<table>
 		  <tr>
 			  <td><b>WHY</b></mark></td>
-			  <td>Définir un modèle organisationnel visant à aligner les objectifs Business avec ceux de l'IT</td>
+			  <td><b>Raison pour laquelle l'organisation existe</b><br>
+			         Définir un modèle organisationnel visant à aligner les objectifs Business avec ceux de l'IT</td>
 		  </tr>
 		  <tr>
 			  <td><b>HOW</b></td>
-			  <td>En augmentant la chaîne de valeur : Personnes / Processus / Automatisation</td>
+			  <td><b>Ce qui vous distingue</b><br>
+				 En augmentant la chaîne de valeur : Personnes / Processus / Automatisation</td>
 		  </tr>  
 		  <tr>
 			  <td><b>WHAT</b></td>
-			  <td>En valorisant les méthodologies, framework et outils prônant la collaboration et l'amélioration continue</td>
+			  <td><b>Produits et services</b><br>
+				 Méthodologies, framework et outils prônant la collaboration et l'amélioration continue</td>
 		  </tr>  
 	</table>
 </div>
