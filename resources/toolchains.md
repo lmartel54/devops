@@ -3,7 +3,7 @@
 </div>
 <h3>La Toolchains</h3>
 <ul>
-	<li><b>Periodic table of DevOps Tools</b></li>
+	<li><b><a href="https://xebialabs.com/periodic-table-of-devops-tools">Periodic table of DevOps Tools</a></b> (Xebia Labs)</li>
 	<ul>
 		<li><p><b>Les façons dont les organisations traitent l'information</b> (<b>The Three Cultures Model</b> publié par <b>Ron Westrum</b>)</p></li>
 		<table>
