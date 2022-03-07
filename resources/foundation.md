@@ -37,6 +37,9 @@
 	<li><b>THREE WAYS</b></li>
 	<br>
 	<p>Rédigé par <b>Gene Kim</b> dans le livre "The Phoenix Project", décrit une façon de fournir de la valeur à un rythme plus rapide</p>
+	<div align="center">
+		<img src="../images/the-three-ways.jpg" align="center"/>
+	</div>	
 	<ul>
 		<li><u><b>Flux</b></u>: Comprendre et améliorer le flux de travail</li>
 		</p>
