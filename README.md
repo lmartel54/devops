@@ -23,6 +23,6 @@
 	</table>
 </div>
 <p><strong><a href="./resources/origins.md">Les origines</a></strong> : ça vient d'où exactement ?</li><p>
-<p><strong><a href="./resources/foundation.md">Les principes fondamentaux</a></strong> : quels sont lés éléments clés ?</li><p>
+<p><strong><a href="./resources/foundation.md">Les fondements</a></strong> : quels sont lés éléments clés ?</li><p>
 <p><strong><a href="./resources/culture-of-change.md">La culture du changement</a></strong> : comment faire évoluer les mentalités ?</p>
 <p><strong><a href="./resources/metrics.md">Les indicateurs</a></strong> : comment évaluer les gains ?</strong></p>
