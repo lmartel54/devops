@@ -9,7 +9,7 @@
 	<br>
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
 	<div align="center">
-		<img src="../images/calms.png"/>
+		<img src="../images/calms.png" witdh="500"/>
 	</div>	
 	<table>
 		<tr>
@@ -59,7 +59,7 @@
 					  <td>Acceptation -> Production</td>
 				  </tr>
 				  <tr>
-					  <td><b>VSM</b><br>(Value Stream Mapping)</td>
+					  <td><b>Value Stream Mapping</b><br>(VSM)</td>
 					  <td>
 						<b>Cartographie des flux</b> (production/information) visant à identifier:
 						<ul>
