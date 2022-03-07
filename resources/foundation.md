@@ -3,7 +3,7 @@
 </div>
 <h3>Les fondements</h3>
 <ul>
-	<li><b><a href="./resources/agile.md">AGILE</a></b>, <b><a href="./resources/lean.md">LEAN</b></a> (gestion organisationelle), <b><a href="./resources/itsm.md">ITSM</a></b> (IT Service Management) </li>
+	<li><b><a href="./agile.md">AGILE</a></b>, <b><a href="./lean.md">LEAN</b></a> (gestion organisationelle), <b><a href="./itsm.md">ITSM</a></b> (IT Service Management) </li>
 	<br>
 	<li><b>CALMS</b></li>
 	<br>
