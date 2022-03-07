@@ -1,13 +1,9 @@
 <div id="header" align="center">
-  <img src="../images/devops-culture.jpg" width="150"/>
+  <img src="../images/" width="150"/>
 </div>
-<h3>La culture du changement</h3>
+<h3>La Toolchains</h3>
 <ul>
-	<li><i>La culture ne fait qu’une bouchée de toute stratégie</i> (<b>Peter Drucker</b>)</li>
-	<li><i>Les gens n’offrent pas de résistance au changement mais à être changés</i> (<b>Peter Senge</b>)</li>
-</ul>
-<ul>
-	<li><b>Organisationelle</b></li>
+	<li><b>Periodic table of DevOps Tools</b></li>
 	<ul>
 		<li><p><b>Les façons dont les organisations traitent l'information</b> (<b>The Three Cultures Model</b> publié par <b>Ron Westrum</b>)</p></li>
 		<table>
