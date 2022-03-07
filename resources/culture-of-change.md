@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="../images/devops-culture-of-change.jpg" width="200"/>
+  <img src="../images/devops-culture-of-change.jpg" width="180"/>
 </div>
 <h3>La culture du changement</h3>
 <ul>
