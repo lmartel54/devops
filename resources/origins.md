@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="../images/devops-origins.jpg" width="250"/>
 </div>
-<h3>L'histoire</h3>
+<h3>Les origines</h3>
 <div>
 	<table>
 		  <tr>
@@ -36,7 +36,7 @@
 	</table>
 </div>
 		   
-<h3>Les origines</h3>
+<h3>Les sources</h3>
 <p><a href="http://devops.com/2016/03/17/what-devops-is-not/">5 Things DevOps is NOT !</a></p>
 <p>
 	DevOps est basé sur un <b>CBOK</b> (Collective Body of Knowledge) : référentiel de connaissances partagées et collectives
@@ -53,7 +53,21 @@
 				  <td>fondé par Gene Kim en 2014</td>
 			  </tr>  
 		</table>
-		<li><b>Rapports annuels</b></li>
+		<li><b>Ouvrages</b></li>
+		<br>
+		<table>
+			  <tr>
+				  <td>2013</td>
+				  <td>The Phoenix Project</td>
+				  <td>Gene Kim, Kevin Behr, George Spafford</td>
+			  </tr>
+			  <tr>
+				  <td>2016</td>
+				  <td>The Devops Handbook</td>
+				  <td>Gene Kim, Jez Humble, Patrick Debois, John Willis</b>
+			  </tr>  
+		</table>
+		<li><b>Rapports</b></li>
 		<br>
 		<table>
 			  <tr>
@@ -97,20 +111,6 @@
 					 <ul>
 				  </td>
 			  </tr>
-		</table>
-		<li><b>Ouvrages</b></li>
-		<br>
-		<table>
-			  <tr>
-				  <td>2013</td>
-				  <td>The Phoenix Project</td>
-				  <td>Gene Kim, Kevin Behr, George Spafford</td>
-			  </tr>
-			  <tr>
-				  <td>2016</td>
-				  <td>The Devops Handbook</td>
-				  <td>Gene Kim, Jez Humble, Patrick Debois, John Willis</b>
-			  </tr>  
 		</table>
 		<li><b>Référentiels</b></li>
 		<br>
