@@ -8,14 +8,29 @@
 	<li><b>CALMS</b></li>
 	<br>
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
-	<img src="../images/calms.png"/>
-	<ul>
-		<li><b>C</b>ulture: Partage de la vision et des responsabilités entre les différents acteurs</li>
-		<li><b>A</b>utomatisation: Elimine les tâches manuelles répétitives, exploite des processus reproductibles et crée des systèmes fiables</li>
-		<li><b>L</b>ean: Elimine les activités à faible valeur ajoutée</li>
-		<li><b>M</b>esure:</li>
-		<li><b>S</b>haring: Partage d'informations</li>
-	</ul>
+	<img src="../images/calms.png" align="center"/>
+	<table>
+		<tr>
+			<td><b>C</b>ulture</td>
+			<td>Partager la vision et les responsabilités entre les différents acteurs</td>
+		</tr>	
+		<tr>
+			<td><b>A</b>utomatisation</td>
+			<td>Eliminer les tâches manuelles répétitives, exploiter des processus reproductibles et créer des systèmes fiables</td>
+		</tr>	
+		<tr>
+			<td><b>L</b>ean</td>
+			<td>Réduire le gaspillage et améliorer en continue les processus</td>
+		</tr>
+		<tr>
+			<td><b>M</b>esure</td>
+			<td>Evaluer les performances</td>
+		</tr>	
+		<tr>
+			<td><b>S</b>haring</td>
+			<td>Communiquer et partager les informations</td>
+		</tr>	
+	</table>
 	<br>
 	<li><b>THREE WAYS</b></li>
 	<br>
@@ -37,10 +52,6 @@
 				  <tr>
 					  <td><b>Continuous Deployment</b> (CD)</td>
 					  <td>Acceptation -> Production</td>
-				  </tr>
-				  <tr>
-					  <td><b>Lean</b></td>
-					  <td>Philosophie qui vise à <b>réduire le gaspillage</b> et améliorer en continue les processus</td>
 				  </tr>
 				  <tr>
 					  <td><b>VSM</b><br>(Value Stream Mapping)</td>
@@ -130,7 +141,7 @@
 					  <td>???</td>
 				  </tr>	
 				  <tr>
-					  <td><b>Indicateurs des processus</b></td>
+					  <td><b>Indicateurs de processus</b></td>
 					  <td>???</td>
 				  </tr>	
 				  <tr>
