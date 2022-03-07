@@ -11,7 +11,7 @@
 	<ul>
 		<li><b>C</b>ulture: Partage de la vision et des responsabilités entre les différents acteurs</li>
 		<li><b>A</b>utomatisation: Elimine les tâches manuelles répétitives, exploite des processus reproductibles et crée des systèmes fiables</li>
-		<li><b>L</b>ean:</li>
+		<li><b>L</b>ean: Elimine les activités à faible valeur ajoutée</li>
 		<li><b>M</b>esure:</li>
 		<li><b>S</b>haring: Partage d'informations</li>
 	</ul>

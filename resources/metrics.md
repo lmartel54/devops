@@ -37,7 +37,7 @@
 	</tr>
 	<tr>
 		<th>TTM</th>
-		<td><b>Time To Market</b><br>Temps qui sépare la décision de conception (l'idée) de sa mise en production</td>	
+		<td><b>Time To Market</b><br>Temps qui sépare la décision de créer une fonctionnalité, et son arrivée sur le produit final en production</td>
 	</tr>
 	<tr>
 		<th>MTBF</th>
