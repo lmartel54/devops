@@ -180,7 +180,15 @@
 				  </tr>
 				  <tr>
 					  <td><b>Dojos</b></td>
-					  <td>???</td>
+					  <td>Endroit où les membres de l'équipe DevOps se rendent pour une formation pratique (initié par Target)</td>
+				  </tr>
+				  <tr>
+					  <td><b>Garages</b> (IBM)</td>
+					  <td>Aide les entreprises à les transformer en produits minimum viables (MVP)</td>
+				  </tr>
+				  <tr>
+					  <td><b>Lofts</b> (Amazon)</td>
+					  <td>Tout ce dont vous avez besoin pour démarrer et développer votre startup avec AWS</td>
 				  </tr>
 				  <tr>
 					  <td><b>Chaos Engineering</b></td>
