@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="../images/devops-culture.jpg" width="150"/>
 </div>
-<h3>La culture du changement</h3>
+<h3>Les indicateurs</h3>
 <ul>
-	<li><i>La culture ne fait qu’une bouchée de toute stratégie</i> (<b>Peter Drucker</b>)</li>
-	<li><i>Les gens n’offrent pas de résistance au changement mais à être changés</i> (<b>Peter Senge</b>)</li>
+	<li><i>Si vous ne pouvez pas le mesurer vous ne pouvez pas l’améliorer</i> (<b>Peter Drucker</b>)</li>
 </ul>
 <ul>
 	<li><b>Organisationelle</b></li>
