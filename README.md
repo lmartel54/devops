@@ -76,7 +76,7 @@
 		<br>
 		<table>
 			  <tr>
-				  <td>Accelerate State of DevOps</td>
+				  <td>The Accelerate State of DevOps</td>
 				  <td>
 					 Publié par l’équipe <b>DORA</b> (DevOps Research & Assessment) de <b>Google Cloud</b><br>
 					 <ul>
@@ -97,7 +97,15 @@
 			  </tr>
 			  <tr>
 				  <td>The State of DevOps Report</td>
-				  <td>Publié par <b>Puppet</b></td>
+				  <td><b>Puppet Labs, CircleCI and Splunk</b></td>
+			  </tr>
+			  <tr>
+				  <td>2020 DevSecOps Community Survey</td>
+				  <td><b>Sonatype</b></td>
+			  </tr>
+			  <tr>
+				  <td>2020 Global DevSecOps Survey</td>
+				  <td><b>Gitlab</b></td>
 			  </tr>
 			  <tr>
 				  <td>Upskilling IT</td>
