@@ -10,7 +10,7 @@
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
 	<ul>
 		<li><b>C</b>ulture: Partage de la vision et des responsabilités entre les différents acteurs</li>
-		<li><b>A</b>utomatisation: d'éliminer les tâches manuelles répétitives, exploite des processus reproductibles et crée des systèmes fiables</li>
+		<li><b>A</b>utomatisation: Elimine les tâches manuelles répétitives, exploite des processus reproductibles et crée des systèmes fiables</li>
 		<li><b>L</b>ean:</li>
 		<li><b>M</b>esure:</li>
 		<li><b>S</b>haring: Partage d'informations</li>
@@ -34,12 +34,12 @@
 					  <td>Acceptation -> <b>Trigger</b> (action manuelle) -> Production</td>
 				  </tr>
 				  <tr>
-					  <td><b>Cotinuous Deployment</b> (CD)</td>
+					  <td><b>Continuous Deployment</b> (CD)</td>
 					  <td>Acceptation -> Production</td>
 				  </tr>
 				  <tr>
 					  <td><b>Lean</b></td>
-					  <td>Amélioration continue des processus de production</td>
+					  <td>Philosophie qui vise à réduire le gaspillage et améliorer en continue les processus</td>
 				  </tr>
 				  <tr>
 					  <td><b>VSM</b><br>(Value Stream Mapping)</td>
