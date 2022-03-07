@@ -8,6 +8,7 @@
 	<li><b>CALMS</b></li>
 	<br>
 	<p>Framework (initié par <b>Jez Humble</b>) permettant d'évaluer la capacité d'une entreprise à adopter les processus DevOps</p>
+	<img src="../images/calms-model.png"/>
 	<ul>
 		<li><b>C</b>ulture: Partage de la vision et des responsabilités entre les différents acteurs</li>
 		<li><b>A</b>utomatisation: Elimine les tâches manuelles répétitives, exploite des processus reproductibles et crée des systèmes fiables</li>
